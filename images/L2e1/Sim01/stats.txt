@@ -1,0 +1,12 @@
+### STATS ###
+Total number of devices in the network: 10
+Total amount of data downloaded from the server: 4176664039 bits
+Number of devices currently online: 9
+Number of devices currently downloading files: 0
+Number of devices currently uploading files: 2
+Average time spent by a device downloading data: 5013.8 s
+Average time spent by a device uploading data: 77524.0 s
+Average download duration: 1563.0 s
+Average upload duration: 1684.0 s
+Average server incoming traffic: 560811.34 b/s
+Average server outgoing traffic: 11620.59 b/s

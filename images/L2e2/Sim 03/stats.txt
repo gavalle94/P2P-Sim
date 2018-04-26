@@ -1,0 +1,20 @@
+### STATS ###
+Total number of devices in the network: 300
+Total amount of data downloaded from the server: 219515452696 bits
+P2P exchanged traffic: 486683351358 bits (68.92% of the total)
+Top 5 P2P contributors:
+Device "293": 33142137124 bits
+Device "248": 29314191695 bits
+Device "243": 26785753117 bits
+Device "11": 26208600614 bits
+Device "10": 22795695947 bits
+Number of devices currently online: 260
+Number of devices currently downloading files: 0
+Number of devices currently uploading files: 107
+Number of P2P connections currently active: 0
+Average time spent by a device downloading data: 3091.44333333 s
+Average time spent by a device uploading data: 125767.813333 s
+Average download duration: 1379.0 s
+Average upload duration: 1829.0 s
+Average server incoming traffic: 22634948.14 b/s
+Average server outgoing traffic: 610416.29 b/s

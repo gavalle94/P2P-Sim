@@ -1,0 +1,1789 @@
+Device 9 logged in at 426, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 11 at 426
+Device 6 logged in at 467, on shared folder "4"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 2 at 467
+Device 6 fails to upload file "1" at 1012
+Device 6 logs out at 1012: session lasts for 544
+Device 2 logged in at 1112, on shared folder "5"
+Device 2 has no file to download from the server
+Device 2 starts waiting an inter-upload time of 5 at 1112
+Device 0 logged in at 1687, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 7 at 1687
+Device 8 logged in at 2008, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 27 at 2008
+Device 8 uploads file "4" in shared folder "7", at 2632: upload lasts for 596.00
+Device 8 starts waiting an inter-upload time of 9533 at 2632
+Device 9 fails to upload file "0" at 2639
+Device 9 logs out at 2639: session lasts for 2212
+Device 6 logged in at 3053, on shared folder "4"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 74 at 3053
+Device 6 uploads file "6" in shared folder "4", at 3162: upload lasts for 34.00
+Device 6 starts waiting an inter-upload time of 78 at 3162
+Device 7 logged in at 3333, on shared folder "10"
+Device 7 has no file to download from the server
+Device 7 starts waiting an inter-upload time of 560 at 3333
+Device 2 uploads file "2" in shared folder "5", at 4124: upload lasts for 3006.00
+Device 2 starts waiting an inter-upload time of 8 at 4124
+Device 9 logged in at 4472, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 0 at 4472
+Device 7 uploads file "8" in shared folder "10", at 4492: upload lasts for 599.00
+Device 7 starts waiting an inter-upload time of 184 at 4492
+Device 4 logged in at 4625, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 19 at 4625
+Device 6 fails to upload file "7" at 5039
+Device 6 logs out at 5039: session lasts for 1985
+Device 6 logged in at 5909, on shared folder "4"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 126 at 5909
+Device 0 uploads file "3" in shared folder "9", at 6298: upload lasts for 4603.00
+Device 0 starts waiting an inter-upload time of 122 at 6298
+Device 2 fails to upload file "9" at 6776
+Device 2 logs out at 6776: session lasts for 5664
+Device 4 uploads file "12" in shared folder "3", at 7140: upload lasts for 2496.00
+Device 4 starts waiting an inter-upload time of 12 at 7140
+Device 9 uploads file "10" in shared folder "2", at 7200: upload lasts for 2727.00
+Device 9 starts waiting an inter-upload time of 65 at 7200
+Device 4 uploads file "15" in shared folder "3", at 8166: upload lasts for 1013.00
+Device 4 starts waiting an inter-upload time of 37 at 8166
+Device 7 uploads file "11" in shared folder "10", at 8456: upload lasts for 3778.00
+Device 7 starts waiting an inter-upload time of 7 at 8456
+Device 7 uploads file "18" in shared folder "10", at 8477: upload lasts for 14.00
+Device 7 starts waiting an inter-upload time of 1490 at 8477
+Device 4 uploads file "17" in shared folder "3", at 8931: upload lasts for 727.00
+Device 4 starts waiting an inter-upload time of 7 at 8931
+Device 1 logged in at 8970, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 36 at 8970
+Device 3 logged in at 9616, on shared folder "5"
+Device 0 uploads file "14" in shared folder "9", at 10178: upload lasts for 3757.00
+Device 0 starts waiting an inter-upload time of 153 at 10178
+Device 7 uploads file "19" in shared folder "10", at 10692: upload lasts for 724.00
+Device 7 starts waiting an inter-upload time of 12 at 10692
+Device 1 uploads file "21" in shared folder "6", at 10937: upload lasts for 1930.00
+Device 1 starts waiting an inter-upload time of 68 at 10937
+Device 9 fails to upload file "16" at 11280
+Device 9 logs out at 11280: session lasts for 6807
+Device 6 uploads file "13" in shared folder "4", at 11499: upload lasts for 5463.00
+Device 6 starts waiting an inter-upload time of 1686 at 11499
+Device 4 uploads file "20" in shared folder "3", at 11743: upload lasts for 2804.00
+Device 4 starts waiting an inter-upload time of 5831 at 11743
+Device 3 downloads on fly file "2" from the server at 11855: download lasts for 2238.99
+Device 3 finishes its downloads at 11855
+Device 3 starts waiting an inter-upload time of 27 at 11855
+Device 0 uploads file "22" in shared folder "9", at 12042: upload lasts for 1710.00
+Device 0 starts waiting an inter-upload time of 260 at 12042
+Device 8 uploads file "5" in shared folder "7", at 13630: upload lasts for 1465.00
+Device 8 starts waiting an inter-upload time of 14 at 13630
+Device 6 fails to upload file "25" at 13905
+Device 6 logs out at 13905: session lasts for 7996
+Device 0 uploads file "28" in shared folder "9", at 14219: upload lasts for 1917.00
+Device 0 starts waiting an inter-upload time of 6 at 14219
+Device 1 uploads file "24" in shared folder "6", at 14396: upload lasts for 3390.00
+Device 1 starts waiting an inter-upload time of 167 at 14396
+Device 7 uploads file "23" in shared folder "10", at 14562: upload lasts for 3857.00
+Device 7 starts waiting an inter-upload time of 167 at 14562
+Device 3 uploads file "27" in shared folder "5", at 14775: upload lasts for 2893.00
+Device 3 starts waiting an inter-upload time of 563 at 14775
+Device 5 logged in at 15163, on shared folder "2"
+Device 7 uploads file "32" in shared folder "10", at 15343: upload lasts for 613.00
+Device 7 starts waiting an inter-upload time of 250 at 15343
+Device 3 uploads file "33" in shared folder "5", at 15380: upload lasts for 40.00
+Device 3 starts waiting an inter-upload time of 0 at 15380
+Device 6 logged in at 15898, on shared folder "4"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 3 at 15898
+Device 6 uploads file "36" in shared folder "4", at 15917: upload lasts for 15.00
+Device 6 starts waiting an inter-upload time of 110 at 15917
+Device 0 fails to upload file "30" at 15993
+Device 0 logs out at 15993: session lasts for 14306
+Device 5 fails to download on fly file "10" at 16057
+Device 7 uploads file "34" in shared folder "10", at 16639: upload lasts for 1046.00
+Device 7 starts waiting an inter-upload time of 12 at 16639
+Device 6 uploads file "37" in shared folder "4", at 17243: upload lasts for 1215.00
+Device 6 starts waiting an inter-upload time of 196 at 17243
+Device 1 fails to upload file "31" at 17277
+Device 1 logs out at 17277: session lasts for 8306
+Device 4 uploads file "26" in shared folder "3", at 18048: upload lasts for 474.00
+Device 4 starts waiting an inter-upload time of 90 at 18048
+Device 3 fails to upload file "35" at 18696
+Device 3 logs out at 18696: session lasts for 9080
+Device 8 uploads file "29" in shared folder "7", at 19215: upload lasts for 5569.00
+Device 8 starts waiting an inter-upload time of 93 at 19215
+Device 8 uploads file "41" in shared folder "7", at 19476: upload lasts for 166.00
+Device 8 starts waiting an inter-upload time of 54 at 19476
+Device 6 uploads file "39" in shared folder "4", at 19491: upload lasts for 2051.00
+Device 6 starts waiting an inter-upload time of 3995 at 19491
+Device 4 fails to upload file "40" at 20557
+Device 4 logs out at 20557: session lasts for 15931
+Device 8 uploads file "42" in shared folder "7", at 20701: upload lasts for 1170.00
+Device 8 starts waiting an inter-upload time of 99 at 20701
+Device 3 logged in at 23091, on shared folder "12"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 3 at 23091
+Device 8 uploads file "44" in shared folder "7", at 23421: upload lasts for 2620.00
+Device 8 starts waiting an inter-upload time of 3 at 23421
+Device 8 uploads file "46" in shared folder "7", at 23432: upload lasts for 7.00
+Device 8 starts waiting an inter-upload time of 136 at 23432
+Device 6 uploads file "43" in shared folder "4", at 23495: upload lasts for 8.00
+Device 6 starts waiting an inter-upload time of 4 at 23495
+Device 3 fails to upload file "45" at 23751
+Device 3 logs out at 23751: session lasts for 660
+Device 3 logged in at 24183, on shared folder "12"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 1373 at 24183
+Device 7 uploads file "38" in shared folder "10", at 25978: upload lasts for 9326.00
+Device 7 starts waiting an inter-upload time of 17 at 25978
+Device 4 logged in at 26457, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 53 at 26457
+Device 3 uploads file "49" in shared folder "12", at 26562: upload lasts for 1006.00
+Device 3 starts waiting an inter-upload time of 93 at 26562
+Device 3 uploads file "52" in shared folder "12", at 26660: upload lasts for 3.00
+Device 3 starts waiting an inter-upload time of 8 at 26660
+Device 3 uploads file "53" in shared folder "12", at 26673: upload lasts for 5.00
+Device 3 starts waiting an inter-upload time of 251 at 26673
+Device 7 fails to upload file "50" at 27073
+Device 7 logs out at 27073: session lasts for 23739
+Device 8 uploads file "47" in shared folder "7", at 27153: upload lasts for 3584.00
+Device 8 starts waiting an inter-upload time of 7 at 27153
+Device 3 uploads file "54" in shared folder "12", at 27289: upload lasts for 364.00
+Device 3 starts waiting an inter-upload time of 336 at 27289
+Device 2 logged in at 27484, on shared folder "5"
+Device 3 starts uploading file "33" to a peer, at 27484: upload will lasts for 114.00
+Device 4 uploads file "51" in shared folder "3", at 27524: upload lasts for 1013.00
+Device 4 starts waiting an inter-upload time of 33 at 27524
+Device 2 downloads a portion of file "33" (size: 367099545.84 bits) from the peer "3" at 27598: download lasts for 114.00
+Device 3 starts uploading file "27" to a peer, at 27598: upload will lasts for 1118.00
+Device 0 logged in at 27605, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 39 at 27605
+Device 0 uploads file "58" in shared folder "9", at 27667: upload lasts for 22.00
+Device 0 starts waiting an inter-upload time of 95 at 27667
+Device 3 uploads file "56" in shared folder "12", at 27669: upload lasts for 44.00
+Device 3 starts waiting an inter-upload time of 1099 at 27669
+Device 0 uploads file "59" in shared folder "9", at 27954: upload lasts for 191.00
+Device 0 starts waiting an inter-upload time of 104 at 27954
+Device 0 has no time to upload file (inter-upload time) at 27980
+Device 0 logs out at 27980: session lasts for 374
+Device 1 logged in at 28657, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 24 at 28657
+Device 8 uploads file "55" in shared folder "7", at 28697: upload lasts for 1536.00
+Device 8 starts waiting an inter-upload time of 23 at 28697
+Device 2 downloads a portion of file "27" (size: 79751977.45 bits) from the peer "3" at 28716: download lasts for 1118.00
+Device 8 fails to upload file "63" at 28770
+Device 8 logs out at 28770: session lasts for 26762
+Device 4 uploads file "57" in shared folder "3", at 29037: upload lasts for 1480.00
+Device 4 starts waiting an inter-upload time of 3 at 29037
+Device 2 fails to download on fly file "27" at 29834
+Device 7 logged in at 29863, on shared folder "10"
+Device 7 has no file to download from the server
+Device 7 starts waiting an inter-upload time of 549 at 29863
+Device 4 uploads file "64" in shared folder "3", at 30480: upload lasts for 1439.00
+Device 4 starts waiting an inter-upload time of 1365 at 30480
+Device 3 uploads file "60" in shared folder "12", at 30940: upload lasts for 2171.00
+Device 3 starts waiting an inter-upload time of 66 at 30940
+Device 9 logged in at 31064, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 1523 at 31064
+Device 1 uploads file "62" in shared folder "6", at 31215: upload lasts for 2533.00
+Device 1 starts waiting an inter-upload time of 4 at 31215
+Device 7 uploads file "65" in shared folder "10", at 31464: upload lasts for 1051.00
+Device 7 starts waiting an inter-upload time of 315 at 31464
+Device 7 uploads file "70" in shared folder "10", at 31785: upload lasts for 5.00
+Device 7 starts waiting an inter-upload time of 74 at 31785
+Device 8 logged in at 31947, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 90 at 31947
+Device 9 fails to upload file "68" at 32673
+Device 9 logs out at 32673: session lasts for 1608
+Device 0 logged in at 32702, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 21 at 32702
+Device 6 uploads file "48" in shared folder "4", at 33270: upload lasts for 9770.00
+Device 6 starts waiting an inter-upload time of 81 at 33270
+Device 6 uploads file "73" in shared folder "4", at 33355: upload lasts for 3.00
+Device 6 starts waiting an inter-upload time of 5 at 33355
+Device 6 uploads file "74" in shared folder "4", at 33373: upload lasts for 12.00
+Device 6 starts waiting an inter-upload time of 29 at 33373
+Device 6 uploads file "75" in shared folder "4", at 33421: upload lasts for 18.00
+Device 6 starts waiting an inter-upload time of 16 at 33421
+Device 1 uploads file "69" in shared folder "6", at 33732: upload lasts for 2513.00
+Device 1 starts waiting an inter-upload time of 17 at 33732
+Device 0 uploads file "61" in shared folder "9", at 33820: upload lasts for 1096.00
+Device 0 starts waiting an inter-upload time of 18 at 33820
+Device 0 fails to upload file "78" at 34064
+Device 0 logs out at 34064: session lasts for 1362
+Device 9 logged in at 34450, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 798 at 34450
+Device 1 uploads file "77" in shared folder "6", at 34760: upload lasts for 1009.00
+Device 1 starts waiting an inter-upload time of 36 at 34760
+Device 8 uploads file "72" in shared folder "7", at 34783: upload lasts for 2744.00
+Device 8 starts waiting an inter-upload time of 284 at 34783
+Device 4 uploads file "66" in shared folder "3", at 35295: upload lasts for 3449.00
+Device 4 starts waiting an inter-upload time of 34 at 35295
+Device 1 uploads file "80" in shared folder "6", at 35488: upload lasts for 691.00
+Device 1 starts waiting an inter-upload time of 11 at 35488
+Device 1 uploads file "83" in shared folder "6", at 35503: upload lasts for 2.00
+Device 1 starts waiting an inter-upload time of 226 at 35503
+Device 1 uploads file "84" in shared folder "6", at 35738: upload lasts for 9.00
+Device 1 starts waiting an inter-upload time of 50 at 35738
+Device 8 uploads file "81" in shared folder "7", at 35779: upload lasts for 711.00
+Device 8 starts waiting an inter-upload time of 347 at 35779
+Device 7 uploads file "71" in shared folder "10", at 36024: upload lasts for 4164.00
+Device 7 starts waiting an inter-upload time of 27 at 36024
+Device 6 uploads file "76" in shared folder "4", at 36143: upload lasts for 2705.00
+Device 6 starts waiting an inter-upload time of 17 at 36143
+Device 6 uploads file "88" in shared folder "4", at 36205: upload lasts for 44.00
+Device 6 starts waiting an inter-upload time of 12 at 36205
+Device 9 uploads file "79" in shared folder "2", at 36220: upload lasts for 972.00
+Device 9 starts waiting an inter-upload time of 28 at 36220
+Device 4 uploads file "82" in shared folder "3", at 36224: upload lasts for 894.00
+Device 4 starts waiting an inter-upload time of 39 at 36224
+Device 9 uploads file "90" in shared folder "2", at 36254: upload lasts for 5.00
+Device 9 starts waiting an inter-upload time of 111 at 36254
+Device 6 uploads file "89" in shared folder "4", at 36404: upload lasts for 187.00
+Device 6 starts waiting an inter-upload time of 67 at 36404
+Device 9 uploads file "92" in shared folder "2", at 36439: upload lasts for 74.00
+Device 9 starts waiting an inter-upload time of 8 at 36439
+Device 3 fails to upload file "67" at 36582
+Device 3 logs out at 36582: session lasts for 12399
+Device 4 fails to upload file "91" at 36649
+Device 4 logs out at 36649: session lasts for 10191
+Device 6 uploads file "93" in shared folder "4", at 37332: upload lasts for 860.00
+Device 6 starts waiting an inter-upload time of 0 at 37332
+Device 6 uploads file "95" in shared folder "4", at 37344: upload lasts for 11.00
+Device 6 starts waiting an inter-upload time of 186 at 37344
+Device 3 logged in at 37705, on shared folder "8"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 26 at 37705
+Device 9 uploads file "94" in shared folder "2", at 37815: upload lasts for 1367.00
+Device 9 starts waiting an inter-upload time of 1 at 37815
+Device 1 uploads file "85" in shared folder "6", at 38055: upload lasts for 2266.00
+Device 1 starts waiting an inter-upload time of 72 at 38055
+Device 4 logged in at 38204, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 280 at 38204
+Device 7 uploads file "87" in shared folder "10", at 38293: upload lasts for 2241.00
+Device 7 starts waiting an inter-upload time of 60 at 38293
+Device 7 uploads file "101" in shared folder "10", at 39188: upload lasts for 834.00
+Device 7 starts waiting an inter-upload time of 0 at 39188
+Device 9 uploads file "98" in shared folder "2", at 39391: upload lasts for 1573.00
+Device 9 starts waiting an inter-upload time of 1690 at 39391
+Device 7 fails to upload file "102" at 40170
+Device 7 logs out at 40170: session lasts for 10306
+Device 6 uploads file "96" in shared folder "4", at 40253: upload lasts for 2723.00
+Device 6 starts waiting an inter-upload time of 72 at 40253
+Device 4 uploads file "100" in shared folder "3", at 40691: upload lasts for 2207.00
+Device 4 starts waiting an inter-upload time of 1250 at 40691
+Device 3 uploads file "97" in shared folder "8", at 40775: upload lasts for 3044.00
+Device 3 starts waiting an inter-upload time of 38 at 40775
+Device 8 uploads file "86" in shared folder "7", at 41016: upload lasts for 4889.00
+Device 8 starts waiting an inter-upload time of 13 at 41016
+Device 8 uploads file "107" in shared folder "7", at 41147: upload lasts for 117.00
+Device 8 starts waiting an inter-upload time of 879 at 41147
+Device 6 uploads file "104" in shared folder "4", at 41279: upload lasts for 953.00
+Device 6 starts waiting an inter-upload time of 2974 at 41279
+Device 9 uploads file "103" in shared folder "2", at 41526: upload lasts for 444.00
+Device 9 starts waiting an inter-upload time of 521 at 41526
+Device 9 uploads file "110" in shared folder "2", at 42050: upload lasts for 2.00
+Device 9 starts waiting an inter-upload time of 448 at 42050
+Device 9 has no time to upload file (inter-upload time) at 42360
+Device 9 logs out at 42360: session lasts for 7910
+Device 9 logged in at 42838, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 122 at 42838
+Device 8 fails to upload file "108" at 43021
+Device 8 logs out at 43021: session lasts for 11073
+Device 4 fails to upload file "105" at 43481
+Device 4 logs out at 43481: session lasts for 5277
+Device 1 uploads file "99" in shared folder "6", at 44235: upload lasts for 6107.00
+Device 1 starts waiting an inter-upload time of 226 at 44235
+Device 8 logged in at 44330, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 337 at 44330
+Device 6 uploads file "109" in shared folder "4", at 45011: upload lasts for 756.00
+Device 6 starts waiting an inter-upload time of 6 at 45011
+Device 3 uploads file "106" in shared folder "8", at 45332: upload lasts for 4519.00
+Device 3 starts waiting an inter-upload time of 12 at 45332
+Device 7 logged in at 45871, on shared folder "10"
+Device 7 has no file to download from the server
+Device 7 starts waiting an inter-upload time of 15 at 45871
+Device 8 uploads file "113" in shared folder "7", at 46242: upload lasts for 1574.00
+Device 8 starts waiting an inter-upload time of 13 at 46242
+Device 1 uploads file "112" in shared folder "6", at 46294: upload lasts for 1832.00
+Device 1 starts waiting an inter-upload time of 50 at 46294
+Device 1 uploads file "118" in shared folder "6", at 46371: upload lasts for 26.00
+Device 1 starts waiting an inter-upload time of 0 at 46371
+Device 6 uploads file "114" in shared folder "4", at 46450: upload lasts for 1433.00
+Device 6 starts waiting an inter-upload time of 40 at 46450
+Device 7 uploads file "116" in shared folder "10", at 47268: upload lasts for 1380.00
+Device 7 starts waiting an inter-upload time of 34 at 47268
+Device 9 uploads file "111" in shared folder "2", at 47312: upload lasts for 4352.00
+Device 9 starts waiting an inter-upload time of 20 at 47312
+Device 6 uploads file "120" in shared folder "4", at 47403: upload lasts for 912.00
+Device 6 starts waiting an inter-upload time of 22 at 47403
+Device 8 uploads file "117" in shared folder "7", at 47595: upload lasts for 1340.00
+Device 8 starts waiting an inter-upload time of 30 at 47595
+Device 1 uploads file "119" in shared folder "6", at 47661: upload lasts for 1289.00
+Device 1 starts waiting an inter-upload time of 20 at 47661
+Device 7 uploads file "121" in shared folder "10", at 48361: upload lasts for 1059.00
+Device 7 starts waiting an inter-upload time of 7 at 48361
+Device 8 uploads file "124" in shared folder "7", at 48796: upload lasts for 1169.00
+Device 8 starts waiting an inter-upload time of 35 at 48796
+Device 8 uploads file "127" in shared folder "7", at 48840: upload lasts for 8.00
+Device 8 starts waiting an inter-upload time of 11 at 48840
+Device 6 uploads file "123" in shared folder "4", at 49348: upload lasts for 1922.00
+Device 6 starts waiting an inter-upload time of 18 at 49348
+Device 6 uploads file "129" in shared folder "4", at 49370: upload lasts for 3.00
+Device 6 starts waiting an inter-upload time of 6 at 49370
+Device 3 uploads file "115" in shared folder "8", at 49673: upload lasts for 4327.00
+Device 3 starts waiting an inter-upload time of 44 at 49673
+Device 8 uploads file "128" in shared folder "7", at 49782: upload lasts for 930.00
+Device 8 starts waiting an inter-upload time of 573 at 49782
+Device 9 uploads file "122" in shared folder "2", at 49990: upload lasts for 2658.00
+Device 9 starts waiting an inter-upload time of 2 at 49990
+Device 3 uploads file "131" in shared folder "8", at 50047: upload lasts for 329.00
+Device 3 starts waiting an inter-upload time of 41 at 50047
+Device 9 uploads file "133" in shared folder "2", at 50126: upload lasts for 132.00
+Device 9 starts waiting an inter-upload time of 17 at 50126
+Device 9 uploads file "135" in shared folder "2", at 50182: upload lasts for 38.00
+Device 9 starts waiting an inter-upload time of 30 at 50182
+Device 3 uploads file "134" in shared folder "8", at 50731: upload lasts for 642.00
+Device 3 starts waiting an inter-upload time of 252 at 50731
+Device 3 fails to upload file "137" at 51086
+Device 3 logs out at 51086: session lasts for 13381
+Device 9 uploads file "136" in shared folder "2", at 51171: upload lasts for 958.00
+Device 9 starts waiting an inter-upload time of 6 at 51171
+Device 7 uploads file "126" in shared folder "10", at 51596: upload lasts for 3226.00
+Device 7 starts waiting an inter-upload time of 374 at 51596
+Device 7 uploads file "139" in shared folder "10", at 52282: upload lasts for 311.00
+Device 7 starts waiting an inter-upload time of 54 at 52282
+Device 8 uploads file "132" in shared folder "7", at 52790: upload lasts for 2434.00
+Device 8 starts waiting an inter-upload time of 5 at 52790
+Device 6 uploads file "130" in shared folder "4", at 53504: upload lasts for 4127.00
+Device 6 starts waiting an inter-upload time of 26 at 53504
+Device 6 uploads file "142" in shared folder "4", at 53542: upload lasts for 10.00
+Device 6 starts waiting an inter-upload time of 8 at 53542
+Device 6 uploads file "143" in shared folder "4", at 53555: upload lasts for 3.00
+Device 6 starts waiting an inter-upload time of 83 at 53555
+Device 6 uploads file "144" in shared folder "4", at 53646: upload lasts for 7.00
+Device 6 starts waiting an inter-upload time of 7384 at 53646
+Device 9 uploads file "138" in shared folder "2", at 53731: upload lasts for 2553.00
+Device 9 starts waiting an inter-upload time of 5 at 53731
+Device 8 uploads file "141" in shared folder "7", at 53856: upload lasts for 1060.00
+Device 8 starts waiting an inter-upload time of 8 at 53856
+Device 7 uploads file "140" in shared folder "10", at 54162: upload lasts for 1825.00
+Device 7 starts waiting an inter-upload time of 220 at 54162
+Device 8 uploads file "147" in shared folder "7", at 54340: upload lasts for 476.00
+Device 8 starts waiting an inter-upload time of 3 at 54340
+Device 9 uploads file "146" in shared folder "2", at 54786: upload lasts for 1050.00
+Device 9 starts waiting an inter-upload time of 52 at 54786
+Device 9 fails to upload file "150" at 56246
+Device 9 logs out at 56246: session lasts for 13408
+Device 7 uploads file "148" in shared folder "10", at 56345: upload lasts for 1961.00
+Device 7 starts waiting an inter-upload time of 112 at 56345
+Device 1 uploads file "125" in shared folder "6", at 56665: upload lasts for 8983.00
+Device 1 starts waiting an inter-upload time of 984 at 56665
+Device 3 logged in at 58112, on shared folder "8"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 1 at 58112
+Device 7 uploads file "151" in shared folder "10", at 58261: upload lasts for 1803.00
+Device 7 starts waiting an inter-upload time of 59 at 58261
+Device 1 uploads file "152" in shared folder "6", at 59143: upload lasts for 1492.00
+Device 1 starts waiting an inter-upload time of 803 at 59143
+Device 4 logged in at 59993, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 27 at 59993
+Device 3 fails to upload file "153" at 59994
+Device 3 logs out at 59994: session lasts for 1881
+Device 4 uploads file "156" in shared folder "3", at 60027: upload lasts for 6.00
+Device 4 starts waiting an inter-upload time of 108 at 60027
+Device 8 uploads file "149" in shared folder "7", at 60386: upload lasts for 6042.00
+Device 8 starts waiting an inter-upload time of 257 at 60386
+Device 3 logged in at 60876, on shared folder "8"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 46 at 60876
+Device 9 logged in at 60890, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 24 at 60890
+Device 4 uploads file "157" in shared folder "3", at 61111: upload lasts for 975.00
+Device 4 starts waiting an inter-upload time of 24 at 61111
+Device 1 uploads file "155" in shared folder "6", at 61385: upload lasts for 1437.00
+Device 1 starts waiting an inter-upload time of 244 at 61385
+Device 7 uploads file "154" in shared folder "10", at 61577: upload lasts for 3256.00
+Device 7 starts waiting an inter-upload time of 109 at 61577
+Device 7 uploads file "163" in shared folder "10", at 61722: upload lasts for 34.00
+Device 7 starts waiting an inter-upload time of 15 at 61722
+Device 8 uploads file "158" in shared folder "7", at 61764: upload lasts for 1120.00
+Device 8 starts waiting an inter-upload time of 22 at 61764
+Device 4 uploads file "161" in shared folder "3", at 62726: upload lasts for 1589.00
+Device 4 starts waiting an inter-upload time of 11 at 62726
+Device 4 uploads file "166" in shared folder "3", at 62747: upload lasts for 9.00
+Device 4 starts waiting an inter-upload time of 660 at 62747
+Device 9 uploads file "160" in shared folder "2", at 62750: upload lasts for 1835.00
+Device 9 starts waiting an inter-upload time of 16 at 62750
+Device 9 uploads file "168" in shared folder "2", at 62775: upload lasts for 7.00
+Device 9 starts waiting an inter-upload time of 29326 at 62775
+Device 3 uploads file "159" in shared folder "8", at 63043: upload lasts for 2120.00
+Device 3 starts waiting an inter-upload time of 1 at 63043
+Device 3 uploads file "170" in shared folder "8", at 63691: upload lasts for 645.00
+Device 3 starts waiting an inter-upload time of 46 at 63691
+Device 8 uploads file "165" in shared folder "7", at 64330: upload lasts for 2543.00
+Device 8 starts waiting an inter-upload time of 58 at 64330
+Device 1 uploads file "162" in shared folder "6", at 64756: upload lasts for 3127.00
+Device 1 starts waiting an inter-upload time of 341 at 64756
+Device 4 uploads file "167" in shared folder "3", at 65283: upload lasts for 1874.00
+Device 4 starts waiting an inter-upload time of 1732 at 65283
+Device 8 uploads file "172" in shared folder "7", at 65676: upload lasts for 1287.00
+Device 8 starts waiting an inter-upload time of 97 at 65676
+Device 8 uploads file "175" in shared folder "7", at 65776: upload lasts for 2.00
+Device 8 starts waiting an inter-upload time of 71 at 65776
+Device 8 uploads file "176" in shared folder "7", at 65854: upload lasts for 5.00
+Device 8 starts waiting an inter-upload time of 162 at 65854
+Device 6 uploads file "145" in shared folder "4", at 65899: upload lasts for 4868.00
+Device 6 starts waiting an inter-upload time of 319 at 65899
+Device 8 uploads file "177" in shared folder "7", at 66157: upload lasts for 140.00
+Device 8 starts waiting an inter-upload time of 127 at 66157
+Device 1 uploads file "173" in shared folder "6", at 66431: upload lasts for 1333.00
+Device 1 starts waiting an inter-upload time of 25 at 66431
+Device 4 has no time to upload file (inter-upload time) at 66854
+Device 4 logs out at 66854: session lasts for 6860
+Device 6 uploads file "178" in shared folder "4", at 67031: upload lasts for 812.00
+Device 6 starts waiting an inter-upload time of 0 at 67031
+Device 4 logged in at 67036, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 70 at 67036
+Device 4 uploads file "174" in shared folder "3", at 67166: upload lasts for 59.00
+Device 4 starts waiting an inter-upload time of 90 at 67166
+Device 8 uploads file "179" in shared folder "7", at 67248: upload lasts for 963.00
+Device 8 starts waiting an inter-upload time of 5 at 67248
+Device 7 fails to upload file "164" at 67274
+Device 7 logs out at 67274: session lasts for 21402
+Device 4 uploads file "182" in shared folder "3", at 68047: upload lasts for 790.00
+Device 4 starts waiting an inter-upload time of 13 at 68047
+Device 4 uploads file "184" in shared folder "3", at 68080: upload lasts for 19.00
+Device 4 starts waiting an inter-upload time of 101 at 68080
+Device 3 uploads file "171" in shared folder "8", at 68328: upload lasts for 4590.00
+Device 3 starts waiting an inter-upload time of 9 at 68328
+Device 4 fails to upload file "185" at 68587
+Device 4 logs out at 68587: session lasts for 1551
+Device 4 logged in at 68846, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 14 at 68846
+Device 3 uploads file "186" in shared folder "8", at 69281: upload lasts for 944.00
+Device 3 starts waiting an inter-upload time of 0 at 69281
+Device 3 uploads file "188" in shared folder "8", at 69289: upload lasts for 7.00
+Device 3 starts waiting an inter-upload time of 151 at 69289
+Device 3 uploads file "189" in shared folder "8", at 69471: upload lasts for 31.00
+Device 3 starts waiting an inter-upload time of 66 at 69471
+Device 8 uploads file "183" in shared folder "7", at 69853: upload lasts for 2598.00
+Device 8 starts waiting an inter-upload time of 294 at 69853
+Device 6 uploads file "181" in shared folder "4", at 70169: upload lasts for 3137.00
+Device 6 starts waiting an inter-upload time of 4 at 70169
+Device 4 fails to upload file "187" at 70307
+Device 4 logs out at 70307: session lasts for 1461
+Device 4 logged in at 70787, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 15 at 70787
+Device 3 fails to upload file "190" at 71170
+Device 3 logs out at 71170: session lasts for 10293
+Device 7 logged in at 71707, on shared folder "10"
+Device 7 has no file to download from the server
+Device 7 starts waiting an inter-upload time of 64 at 71707
+Device 4 uploads file "193" in shared folder "3", at 71794: upload lasts for 991.00
+Device 4 starts waiting an inter-upload time of 3322 at 71794
+Device 1 uploads file "180" in shared folder "6", at 72330: upload lasts for 5873.00
+Device 1 starts waiting an inter-upload time of 8 at 72330
+Device 6 uploads file "192" in shared folder "4", at 72401: upload lasts for 2227.00
+Device 6 starts waiting an inter-upload time of 44 at 72401
+Device 7 uploads file "194" in shared folder "10", at 72912: upload lasts for 1140.00
+Device 7 starts waiting an inter-upload time of 4 at 72912
+Device 7 fails to upload file "198" at 73264
+Device 7 logs out at 73264: session lasts for 1556
+Device 1 uploads file "196" in shared folder "6", at 73813: upload lasts for 1474.00
+Device 1 starts waiting an inter-upload time of 10 at 73813
+Device 6 uploads file "197" in shared folder "4", at 74367: upload lasts for 1920.00
+Device 6 starts waiting an inter-upload time of 377 at 74367
+Device 7 logged in at 77288, on shared folder "7"
+Device 8 starts uploading file "172" to a peer, at 77288: upload will lasts for 1184.00
+Device 4 uploads file "195" in shared folder "3", at 77792: upload lasts for 2675.00
+Device 4 starts waiting an inter-upload time of 47 at 77792
+Device 4 uploads file "201" in shared folder "3", at 77852: upload lasts for 12.00
+Device 4 starts waiting an inter-upload time of 27 at 77852
+Device 4 uploads file "202" in shared folder "3", at 78076: upload lasts for 195.00
+Device 4 starts waiting an inter-upload time of 172 at 78076
+Device 4 uploads file "203" in shared folder "3", at 78396: upload lasts for 147.00
+Device 4 starts waiting an inter-upload time of 75 at 78396
+Device 1 uploads file "199" in shared folder "6", at 78456: upload lasts for 4632.00
+Device 1 starts waiting an inter-upload time of 263 at 78456
+Device 7 downloads a portion of file "172" (size: 1197712461.55 bits) from the peer "8" at 78472: download lasts for 1184.00
+Device 8 starts uploading file "165" to a peer, at 78472: upload will lasts for 1246.00
+Device 7 downloads a portion of file "165" (size: 155440538.41 bits) from the peer "8" at 79718: download lasts for 1246.00
+Device 8 starts uploading file "147" to a peer, at 79718: upload will lasts for 770.00
+Device 7 downloads a portion of file "147" (size: 64878295.42 bits) from the peer "8" at 80488: download lasts for 770.00
+Device 8 starts uploading file "124" to a peer, at 80488: upload will lasts for 2584.00
+Device 4 uploads file "204" in shared folder "3", at 80811: upload lasts for 2340.00
+Device 4 starts waiting an inter-upload time of 11 at 80811
+Device 4 uploads file "206" in shared folder "3", at 80826: upload lasts for 3.00
+Device 4 starts waiting an inter-upload time of 866 at 80826
+Device 6 uploads file "200" in shared folder "4", at 81260: upload lasts for 6516.00
+Device 6 starts waiting an inter-upload time of 265 at 81260
+Device 3 logged in at 81321, on shared folder "5"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 371 at 81321
+Device 1 uploads file "205" in shared folder "6", at 81848: upload lasts for 3127.00
+Device 1 starts waiting an inter-upload time of 130 at 81848
+Device 3 uploads file "209" in shared folder "5", at 81872: upload lasts for 179.00
+Device 3 starts waiting an inter-upload time of 3 at 81872
+Device 3 uploads file "211" in shared folder "5", at 81893: upload lasts for 17.00
+Device 3 starts waiting an inter-upload time of 115 at 81893
+Device 9 has no time to upload file (inter-upload time) at 82499
+Device 9 logs out at 82499: session lasts for 21609
+Device 1 fails to upload file "210" at 82645
+Device 1 logs out at 82645: session lasts for 53987
+Device 4 uploads file "207" in shared folder "3", at 82650: upload lasts for 957.00
+Device 4 starts waiting an inter-upload time of 0 at 82650
+Device 3 fails to upload file "212" at 82909
+Device 3 logs out at 82909: session lasts for 1587
+Device 7 downloads a portion of file "124" (size: 111383344.89 bits) from the peer "8" at 83072: download lasts for 2584.00
+Device 7 downloads on fly file "124" from the server at 83167: download lasts for 94.87
+Device 8 starts uploading file "5" to a peer, at 83167: upload will lasts for 2184.00
+Device 4 fails to upload file "213" at 83200
+Device 4 logs out at 83200: session lasts for 12413
+Device 6 uploads file "208" in shared folder "4", at 83780: upload lasts for 2254.00
+Device 6 starts waiting an inter-upload time of 205 at 83780
+Device 7 downloads a portion of file "5" (size: 190211109.28 bits) from the peer "8" at 85351: download lasts for 2184.00
+Device 8 starts uploading file "86" to a peer, at 85351: upload will lasts for 2489.00
+Device 4 logged in at 86297, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 39 at 86297
+Device 7 downloads a portion of file "86" (size: 113563281.59 bits) from the peer "8" at 87840: download lasts for 2489.00
+Device 7 downloads on fly file "86" from the server at 88207: download lasts for 367.43
+Device 8 starts uploading file "183" to a peer, at 88207: upload will lasts for 787.00
+Device 4 fails to upload file "215" at 88297
+Device 4 logs out at 88297: session lasts for 1999
+Device 6 uploads file "214" in shared folder "4", at 88855: upload lasts for 4869.00
+Device 6 starts waiting an inter-upload time of 188 at 88855
+Device 8 fails to upload file "191" at 88994
+Device 8 logs out at 88994: session lasts for 44663
+Device 7 downloads a portion of file "183" (size: 86214475.74 bits) from the peer "8" at 88994: download lasts for 787.00
+Device 0 logged in at 89258, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 1718 at 89258
+Device 7 downloads on fly file "183" from the server at 89336: download lasts for 341.53
+Device 7 downloads on fly file "107" from the server at 89396: download lasts for 59.74
+Device 6 uploads file "216" in shared folder "4", at 90123: upload lasts for 1078.00
+Device 6 starts waiting an inter-upload time of 59 at 90123
+Device 3 logged in at 90281, on shared folder "12"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 3085 at 90281
+Device 4 logged in at 90397, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 38 at 90397
+Device 7 fails to download on fly file "4" at 91115
+Device 4 fails to upload file "220" at 91732
+Device 4 logs out at 91732: session lasts for 1334
+Device 6 uploads file "218" in shared folder "4", at 92588: upload lasts for 2405.00
+Device 6 starts waiting an inter-upload time of 6 at 92588
+Device 3 fails to upload file "219" at 93511
+Device 3 logs out at 93511: session lasts for 3229
+Device 3 logged in at 93879, on shared folder "12"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 50 at 93879
+Device 3 uploads file "222" in shared folder "12", at 95782: upload lasts for 1852.00
+Device 3 starts waiting an inter-upload time of 321 at 95782
+Device 0 fails to upload file "217" at 96295
+Device 0 logs out at 96295: session lasts for 7036
+Device 6 uploads file "221" in shared folder "4", at 96635: upload lasts for 4040.00
+Device 6 starts waiting an inter-upload time of 159 at 96635
+Device 8 logged in at 96913, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 0 at 96913
+Device 3 uploads file "223" in shared folder "12", at 97491: upload lasts for 1387.00
+Device 3 starts waiting an inter-upload time of 29 at 97491
+Device 8 fails to upload file "225" at 98401
+Device 8 logs out at 98401: session lasts for 1487
+Device 6 uploads file "224" in shared folder "4", at 98727: upload lasts for 1932.00
+Device 6 starts waiting an inter-upload time of 1 at 98727
+Device 6 uploads file "227" in shared folder "4", at 98747: upload lasts for 17.00
+Device 6 starts waiting an inter-upload time of 4 at 98747
+Device 3 uploads file "226" in shared folder "12", at 98846: upload lasts for 1325.00
+Device 3 starts waiting an inter-upload time of 14 at 98846
+Device 8 logged in at 99102, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 836 at 99102
+Device 9 logged in at 99716, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 18 at 99716
+Device 6 uploads file "228" in shared folder "4", at 100541: upload lasts for 1790.00
+Device 6 starts waiting an inter-upload time of 39 at 100541
+Device 8 fails to upload file "230" at 101863
+Device 8 logs out at 101863: session lasts for 2760
+Device 6 uploads file "231" in shared folder "4", at 102058: upload lasts for 1477.00
+Device 6 starts waiting an inter-upload time of 218 at 102058
+Device 8 logged in at 103181, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 9 at 103181
+Device 3 uploads file "229" in shared folder "12", at 103756: upload lasts for 4894.00
+Device 3 starts waiting an inter-upload time of 45 at 103756
+Device 3 uploads file "234" in shared folder "12", at 103814: upload lasts for 13.00
+Device 3 starts waiting an inter-upload time of 133 at 103814
+Device 3 uploads file "235" in shared folder "12", at 103988: upload lasts for 39.00
+Device 3 starts waiting an inter-upload time of 2304 at 103988
+Device 6 uploads file "232" in shared folder "4", at 104465: upload lasts for 2188.00
+Device 6 starts waiting an inter-upload time of 291 at 104465
+Device 6 uploads file "237" in shared folder "4", at 104803: upload lasts for 46.00
+Device 6 starts waiting an inter-upload time of 20940 at 104803
+Device 4 logged in at 104941, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 2 at 104941
+Device 0 logged in at 105913, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 20 at 105913
+Device 8 uploads file "233" in shared folder "7", at 105947: upload lasts for 2755.00
+Device 8 starts waiting an inter-upload time of 306 at 105947
+Device 8 uploads file "241" in shared folder "7", at 106317: upload lasts for 63.00
+Device 8 starts waiting an inter-upload time of 2767 at 106317
+Device 9 fails to upload file "169" at 106347
+Device 9 logs out at 106347: session lasts for 6631
+Device 3 uploads file "236" in shared folder "12", at 106385: upload lasts for 92.00
+Device 3 starts waiting an inter-upload time of 898 at 106385
+Device 4 fails to upload file "239" at 107183
+Device 4 logs out at 107183: session lasts for 2242
+Device 0 fails to upload file "240" at 107208
+Device 0 logs out at 107208: session lasts for 1295
+Device 8 uploads file "242" in shared folder "7", at 109680: upload lasts for 595.00
+Device 8 starts waiting an inter-upload time of 33 at 109680
+Device 3 uploads file "243" in shared folder "12", at 109860: upload lasts for 2576.00
+Device 3 starts waiting an inter-upload time of 47 at 109860
+Device 3 uploads file "245" in shared folder "12", at 112234: upload lasts for 2325.00
+Device 3 starts waiting an inter-upload time of 18644 at 112234
+Device 8 uploads file "244" in shared folder "7", at 113964: upload lasts for 4250.00
+Device 8 starts waiting an inter-upload time of 83 at 113964
+Device 8 uploads file "247" in shared folder "7", at 115346: upload lasts for 1299.00
+Device 8 starts waiting an inter-upload time of 0 at 115346
+Device 0 logged in at 115975, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 16 at 115975
+Device 8 uploads file "248" in shared folder "7", at 116178: upload lasts for 831.00
+Device 8 starts waiting an inter-upload time of 19 at 116178
+Device 9 logged in at 116778, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 368 at 116778
+Device 0 uploads file "249" in shared folder "9", at 116984: upload lasts for 992.00
+Device 0 starts waiting an inter-upload time of 8 at 116984
+Device 0 uploads file "252" in shared folder "9", at 117388: upload lasts for 395.00
+Device 0 starts waiting an inter-upload time of 60 at 117388
+Device 0 fails to upload file "253" at 117640
+Device 0 logs out at 117640: session lasts for 1665
+Device 9 uploads file "251" in shared folder "2", at 118648: upload lasts for 1502.00
+Device 9 starts waiting an inter-upload time of 2676 at 118648
+Device 9 uploads file "254" in shared folder "2", at 121366: upload lasts for 41.00
+Device 9 starts waiting an inter-upload time of 85 at 121366
+Device 8 uploads file "250" in shared folder "7", at 121886: upload lasts for 5687.00
+Device 8 starts waiting an inter-upload time of 94 at 121886
+Device 4 logged in at 122278, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 4 at 122278
+Device 4 fails to upload file "257" at 122530
+Device 4 logs out at 122530: session lasts for 251
+Device 0 logged in at 123168, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 52 at 123168
+Device 0 uploads file "258" in shared folder "9", at 123316: upload lasts for 94.00
+Device 0 starts waiting an inter-upload time of 3 at 123316
+Device 8 uploads file "256" in shared folder "7", at 123673: upload lasts for 1691.00
+Device 8 starts waiting an inter-upload time of 84 at 123673
+Device 6 uploads file "238" in shared folder "4", at 125755: upload lasts for 11.00
+Device 6 starts waiting an inter-upload time of 6 at 125755
+Device 6 uploads file "261" in shared folder "4", at 126804: upload lasts for 1043.00
+Device 6 starts waiting an inter-upload time of 1 at 126804
+Device 0 uploads file "259" in shared folder "9", at 126817: upload lasts for 3497.00
+Device 0 starts waiting an inter-upload time of 0 at 126817
+Device 8 uploads file "260" in shared folder "7", at 126863: upload lasts for 3105.00
+Device 8 starts waiting an inter-upload time of 3 at 126863
+Device 4 logged in at 127013, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 79 at 127013
+Device 4 fails to upload file "265" at 127270
+Device 4 logs out at 127270: session lasts for 256
+Device 0 uploads file "263" in shared folder "9", at 127828: upload lasts for 1010.00
+Device 0 starts waiting an inter-upload time of 3 at 127828
+Device 0 fails to upload file "266" at 127907
+Device 0 logs out at 127907: session lasts for 4738
+Device 6 fails to upload file "262" at 127951
+Device 6 logs out at 127951: session lasts for 112053
+Device 4 logged in at 127974, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 69 at 127974
+Device 8 uploads file "264" in shared folder "7", at 127978: upload lasts for 1111.00
+Device 8 starts waiting an inter-upload time of 20 at 127978
+Device 9 uploads file "255" in shared folder "2", at 128164: upload lasts for 6712.00
+Device 9 starts waiting an inter-upload time of 123 at 128164
+Device 6 logged in at 128560, on shared folder "11"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 327 at 128560
+Device 6 uploads file "270" in shared folder "11", at 128898: upload lasts for 10.00
+Device 6 starts waiting an inter-upload time of 110 at 128898
+Device 0 logged in at 129711, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 26 at 129711
+Device 8 uploads file "268" in shared folder "7", at 129933: upload lasts for 1934.00
+Device 8 starts waiting an inter-upload time of 2489 at 129933
+Device 6 uploads file "271" in shared folder "11", at 130369: upload lasts for 1360.00
+Device 6 starts waiting an inter-upload time of 111 at 130369
+Device 6 fails to upload file "274" at 130621
+Device 6 logs out at 130621: session lasts for 2061
+Device 4 uploads file "267" in shared folder "3", at 130910: upload lasts for 2866.00
+Device 4 starts waiting an inter-upload time of 30 at 130910
+Device 3 fails to upload file "246" at 131441
+Device 3 logs out at 131441: session lasts for 37562
+Device 4 fails to upload file "275" at 132337
+Device 4 logs out at 132337: session lasts for 4363
+Device 8 uploads file "273" in shared folder "7", at 132509: upload lasts for 86.00
+Device 8 starts waiting an inter-upload time of 11 at 132509
+Device 4 logged in at 132531, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 2228 at 132531
+Device 4 has no time to upload file (inter-upload time) at 132614
+Device 4 logs out at 132614: session lasts for 82
+Device 9 uploads file "269" in shared folder "2", at 132929: upload lasts for 4640.00
+Device 9 starts waiting an inter-upload time of 310 at 132929
+Device 8 uploads file "276" in shared folder "7", at 133446: upload lasts for 925.00
+Device 8 starts waiting an inter-upload time of 182 at 133446
+Device 8 has no time to upload file (inter-upload time) at 133575
+Device 8 logs out at 133575: session lasts for 30393
+Device 9 fails to upload file "278" at 134661
+Device 9 logs out at 134661: session lasts for 17882
+Device 0 uploads file "272" in shared folder "9", at 136806: upload lasts for 7067.00
+Device 0 starts waiting an inter-upload time of 9 at 136806
+Device 8 logged in at 137109, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 1 at 137109
+Device 0 fails to upload file "280" at 137598
+Device 0 logs out at 137598: session lasts for 7886
+Device 8 uploads file "279" in shared folder "7", at 138830: upload lasts for 1720.00
+Device 8 starts waiting an inter-upload time of 720 at 138830
+Device 8 uploads file "281" in shared folder "7", at 140650: upload lasts for 1099.00
+Device 8 starts waiting an inter-upload time of 0 at 140650
+Device 0 logged in at 141059, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 51 at 141059
+Device 8 fails to upload file "282" at 141098
+Device 8 logs out at 141098: session lasts for 3989
+Device 0 uploads file "283" in shared folder "9", at 141129: upload lasts for 18.00
+Device 0 starts waiting an inter-upload time of 71 at 141129
+Device 8 logged in at 142302, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 10 at 142302
+Device 8 uploads file "285" in shared folder "7", at 142322: upload lasts for 9.00
+Device 8 starts waiting an inter-upload time of 36 at 142322
+Device 0 uploads file "284" in shared folder "9", at 142899: upload lasts for 1698.00
+Device 0 starts waiting an inter-upload time of 225 at 142899
+Device 0 uploads file "287" in shared folder "9", at 143158: upload lasts for 33.00
+Device 0 starts waiting an inter-upload time of 66 at 143158
+Device 0 uploads file "288" in shared folder "9", at 144165: upload lasts for 940.00
+Device 0 starts waiting an inter-upload time of 0 at 144165
+Device 0 uploads file "289" in shared folder "9", at 144296: upload lasts for 130.00
+Device 0 starts waiting an inter-upload time of 79 at 144296
+Device 0 uploads file "290" in shared folder "9", at 144383: upload lasts for 7.00
+Device 0 starts waiting an inter-upload time of 2 at 144383
+Device 0 uploads file "291" in shared folder "9", at 144389: upload lasts for 3.00
+Device 0 starts waiting an inter-upload time of 296 at 144389
+Device 0 fails to upload file "292" at 145439
+Device 0 logs out at 145439: session lasts for 4379
+Device 8 uploads file "286" in shared folder "7", at 145675: upload lasts for 3316.00
+Device 8 starts waiting an inter-upload time of 285 at 145675
+Device 0 logged in at 146648, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 15 at 146648
+Device 0 uploads file "294" in shared folder "9", at 146695: upload lasts for 30.00
+Device 0 starts waiting an inter-upload time of 4 at 146695
+Device 0 fails to upload file "295" at 147038
+Device 0 logs out at 147038: session lasts for 390
+Device 0 logged in at 147817, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 10 at 147817
+Device 0 uploads file "296" in shared folder "9", at 151552: upload lasts for 3724.00
+Device 0 starts waiting an inter-upload time of 393 at 151552
+Device 8 uploads file "293" in shared folder "7", at 151974: upload lasts for 6013.00
+Device 8 starts waiting an inter-upload time of 241 at 151974
+Device 0 uploads file "297" in shared folder "9", at 152522: upload lasts for 576.00
+Device 0 starts waiting an inter-upload time of 164 at 152522
+Device 0 uploads file "299" in shared folder "9", at 152704: upload lasts for 17.00
+Device 0 starts waiting an inter-upload time of 233 at 152704
+Device 4 logged in at 153013, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 123 at 153013
+Device 8 uploads file "298" in shared folder "7", at 154418: upload lasts for 2202.00
+Device 8 starts waiting an inter-upload time of 6 at 154418
+Device 8 uploads file "301" in shared folder "7", at 154428: upload lasts for 4.00
+Device 8 starts waiting an inter-upload time of 189 at 154428
+Device 8 has no time to upload file (inter-upload time) at 154446
+Device 8 logs out at 154446: session lasts for 12143
+Device 4 uploads file "277" in shared folder "3", at 155517: upload lasts for 2381.00
+Device 4 starts waiting an inter-upload time of 101 at 155517
+Device 1 logged in at 156147, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 379 at 156147
+Device 6 logged in at 158009, on shared folder "4"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 3 at 158009
+Device 9 logged in at 158477, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 6 at 158477
+Device 9 uploads file "306" in shared folder "2", at 158908: upload lasts for 423.00
+Device 9 starts waiting an inter-upload time of 60 at 158908
+Device 6 uploads file "305" in shared folder "4", at 159200: upload lasts for 1187.00
+Device 6 starts waiting an inter-upload time of 26 at 159200
+Device 9 fails to upload file "307" at 159357
+Device 9 logs out at 159357: session lasts for 880
+Device 4 uploads file "303" in shared folder "3", at 159367: upload lasts for 3748.00
+Device 4 starts waiting an inter-upload time of 315 at 159367
+Device 1 uploads file "304" in shared folder "6", at 161527: upload lasts for 5000.00
+Device 1 starts waiting an inter-upload time of 37 at 161527
+Device 1 uploads file "310" in shared folder "6", at 161651: upload lasts for 86.00
+Device 1 starts waiting an inter-upload time of 69 at 161651
+Device 3 logged in at 162044, on shared folder "5"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 350 at 162044
+Device 4 uploads file "309" in shared folder "3", at 162212: upload lasts for 2529.00
+Device 4 starts waiting an inter-upload time of 14 at 162212
+Device 4 uploads file "313" in shared folder "3", at 162242: upload lasts for 15.00
+Device 4 starts waiting an inter-upload time of 131 at 162242
+Device 3 uploads file "312" in shared folder "5", at 162471: upload lasts for 76.00
+Device 3 starts waiting an inter-upload time of 0 at 162471
+Device 4 uploads file "314" in shared folder "3", at 162514: upload lasts for 140.00
+Device 4 starts waiting an inter-upload time of 3 at 162514
+Device 0 uploads file "300" in shared folder "9", at 162946: upload lasts for 10008.00
+Device 0 starts waiting an inter-upload time of 6 at 162946
+Device 0 uploads file "317" in shared folder "9", at 162969: upload lasts for 15.00
+Device 0 starts waiting an inter-upload time of 1 at 162969
+Device 0 uploads file "318" in shared folder "9", at 164170: upload lasts for 1199.00
+Device 0 starts waiting an inter-upload time of 107 at 164170
+Device 3 uploads file "315" in shared folder "5", at 164411: upload lasts for 1939.00
+Device 3 starts waiting an inter-upload time of 20 at 164411
+Device 1 uploads file "311" in shared folder "6", at 165544: upload lasts for 3823.00
+Device 1 starts waiting an inter-upload time of 0 at 165544
+Device 4 uploads file "316" in shared folder "3", at 165588: upload lasts for 3070.00
+Device 4 starts waiting an inter-upload time of 425 at 165588
+Device 0 uploads file "319" in shared folder "9", at 166601: upload lasts for 2324.00
+Device 0 starts waiting an inter-upload time of 34 at 166601
+Device 6 fails to upload file "308" at 166618
+Device 6 logs out at 166618: session lasts for 8608
+Device 1 fails to upload file "321" at 166692
+Device 1 logs out at 166692: session lasts for 10544
+Device 6 logged in at 167320, on shared folder "4"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 12 at 167320
+Device 6 fails to upload file "324" at 167662
+Device 6 logs out at 167662: session lasts for 342
+Device 6 logged in at 168119, on shared folder "4"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 369 at 168119
+Device 6 uploads file "325" in shared folder "4", at 169361: upload lasts for 872.00
+Device 6 starts waiting an inter-upload time of 2365 at 169361
+Device 4 uploads file "322" in shared folder "3", at 170004: upload lasts for 3991.00
+Device 4 starts waiting an inter-upload time of 79 at 170004
+Device 4 uploads file "327" in shared folder "3", at 170100: upload lasts for 15.00
+Device 4 starts waiting an inter-upload time of 557 at 170100
+Device 1 logged in at 170382, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 22 at 170382
+Device 0 uploads file "323" in shared folder "9", at 170745: upload lasts for 4108.00
+Device 0 starts waiting an inter-upload time of 570 at 170745
+Device 4 uploads file "328" in shared folder "3", at 170756: upload lasts for 98.00
+Device 4 starts waiting an inter-upload time of 342 at 170756
+Device 1 uploads file "329" in shared folder "6", at 172122: upload lasts for 1717.00
+Device 1 starts waiting an inter-upload time of 11 at 172122
+Device 1 uploads file "332" in shared folder "6", at 172138: upload lasts for 4.00
+Device 1 starts waiting an inter-upload time of 2606 at 172138
+Device 4 uploads file "331" in shared folder "3", at 172154: upload lasts for 1055.00
+Device 4 starts waiting an inter-upload time of 2 at 172154
+Device 0 uploads file "330" in shared folder "9", at 172335: upload lasts for 1019.00
+Device 0 starts waiting an inter-upload time of 1 at 172335
+Device 0 uploads file "335" in shared folder "9", at 172357: upload lasts for 20.00
+Device 0 starts waiting an inter-upload time of 14 at 172357
+Device 6 uploads file "326" in shared folder "4", at 172392: upload lasts for 665.00
+Device 6 starts waiting an inter-upload time of 1474 at 172392
+Device 0 uploads file "336" in shared folder "9", at 173451: upload lasts for 1079.00
+Device 0 starts waiting an inter-upload time of 480 at 173451
+Device 4 uploads file "334" in shared folder "3", at 173961: upload lasts for 1804.00
+Device 4 starts waiting an inter-upload time of 4 at 173961
+Device 1 uploads file "333" in shared folder "6", at 175154: upload lasts for 410.00
+Device 1 starts waiting an inter-upload time of 82 at 175154
+Device 6 uploads file "337" in shared folder "4", at 175652: upload lasts for 1786.00
+Device 6 starts waiting an inter-upload time of 238 at 175652
+Device 0 uploads file "338" in shared folder "9", at 176874: upload lasts for 2941.00
+Device 0 starts waiting an inter-upload time of 1334 at 176874
+Device 1 uploads file "340" in shared folder "6", at 177246: upload lasts for 2008.00
+Device 1 starts waiting an inter-upload time of 6 at 177246
+Device 6 uploads file "341" in shared folder "4", at 177346: upload lasts for 1454.00
+Device 6 starts waiting an inter-upload time of 2604 at 177346
+Device 3 fails to upload file "320" at 178104
+Device 3 logs out at 178104: session lasts for 16059
+Device 0 has no time to upload file (inter-upload time) at 178199
+Device 0 logs out at 178199: session lasts for 30381
+Device 1 uploads file "343" in shared folder "6", at 178352: upload lasts for 1099.00
+Device 1 starts waiting an inter-upload time of 274 at 178352
+Device 0 logged in at 179118, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 95 at 179118
+Device 0 uploads file "342" in shared folder "9", at 179259: upload lasts for 45.00
+Device 0 starts waiting an inter-upload time of 90 at 179259
+Device 9 logged in at 179668, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 166 at 179668
+Device 4 uploads file "339" in shared folder "3", at 180403: upload lasts for 6436.00
+Device 4 starts waiting an inter-upload time of 2 at 180403
+Device 8 logged in at 180739, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 377 at 180739
+Device 0 uploads file "346" in shared folder "9", at 180877: upload lasts for 1527.00
+Device 0 starts waiting an inter-upload time of 748 at 180877
+Device 1 uploads file "345" in shared folder "6", at 180924: upload lasts for 2297.00
+Device 1 starts waiting an inter-upload time of 5 at 180924
+Device 1 uploads file "350" in shared folder "6", at 180933: upload lasts for 3.00
+Device 1 starts waiting an inter-upload time of 1 at 180933
+Device 8 uploads file "302" in shared folder "7", at 181126: upload lasts for 8.00
+Device 8 starts waiting an inter-upload time of 31 at 181126
+Device 9 uploads file "347" in shared folder "2", at 181185: upload lasts for 1350.00
+Device 9 starts waiting an inter-upload time of 23 at 181185
+Device 9 uploads file "353" in shared folder "2", at 181243: upload lasts for 33.00
+Device 9 starts waiting an inter-upload time of 1 at 181243
+Device 9 fails to upload file "354" at 181277
+Device 9 logs out at 181277: session lasts for 1609
+Device 6 uploads file "344" in shared folder "4", at 181359: upload lasts for 1409.00
+Device 6 starts waiting an inter-upload time of 597 at 181359
+Device 8 fails to upload file "352" at 181716
+Device 8 logs out at 181716: session lasts for 976
+Device 9 logged in at 181933, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 2 at 181933
+Device 0 uploads file "349" in shared folder "9", at 182665: upload lasts for 1039.00
+Device 0 starts waiting an inter-upload time of 17 at 182665
+Device 0 uploads file "357" in shared folder "9", at 182690: upload lasts for 7.00
+Device 0 starts waiting an inter-upload time of 1 at 182690
+Device 4 uploads file "348" in shared folder "3", at 183344: upload lasts for 2938.00
+Device 4 starts waiting an inter-upload time of 16 at 183344
+Device 0 fails to upload file "358" at 183446
+Device 0 logs out at 183446: session lasts for 4327
+Device 6 uploads file "355" in shared folder "4", at 183681: upload lasts for 1723.00
+Device 6 starts waiting an inter-upload time of 148 at 183681
+Device 0 logged in at 184857, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 86 at 184857
+Device 6 uploads file "360" in shared folder "4", at 185175: upload lasts for 1345.00
+Device 6 starts waiting an inter-upload time of 306 at 185175
+Device 0 uploads file "361" in shared folder "9", at 185322: upload lasts for 377.00
+Device 0 starts waiting an inter-upload time of 66 at 185322
+Device 0 uploads file "363" in shared folder "9", at 185536: upload lasts for 148.00
+Device 0 starts waiting an inter-upload time of 0 at 185536
+Device 0 uploads file "364" in shared folder "9", at 185547: upload lasts for 9.00
+Device 0 starts waiting an inter-upload time of 192 at 185547
+Device 3 logged in at 186171, on shared folder "8"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 9 at 186171
+Device 3 fails to upload file "366" at 186215
+Device 3 logs out at 186215: session lasts for 44
+Device 3 logged in at 186419, on shared folder "12"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 32 at 186419
+Device 9 uploads file "356" in shared folder "2", at 186424: upload lasts for 4488.00
+Device 9 starts waiting an inter-upload time of 114 at 186424
+Device 1 fails to upload file "351" at 187095
+Device 1 logs out at 187095: session lasts for 16713
+Device 1 logged in at 187736, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 49 at 187736
+Device 1 uploads file "369" in shared folder "6", at 187791: upload lasts for 4.00
+Device 1 starts waiting an inter-upload time of 94 at 187791
+Device 3 fails to upload file "367" at 188747
+Device 3 logs out at 188747: session lasts for 2327
+Device 8 logged in at 188820, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 4 at 188820
+Device 9 uploads file "368" in shared folder "2", at 188870: upload lasts for 2331.00
+Device 9 starts waiting an inter-upload time of 71 at 188870
+Device 0 fails to upload file "365" at 188962
+Device 0 logs out at 188962: session lasts for 4104
+Device 9 uploads file "372" in shared folder "2", at 189604: upload lasts for 661.00
+Device 9 starts waiting an inter-upload time of 117 at 189604
+Device 4 uploads file "359" in shared folder "3", at 189996: upload lasts for 6634.00
+Device 4 starts waiting an inter-upload time of 405 at 189996
+Device 0 logged in at 190518, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 5 at 190518
+Device 0 uploads file "375" in shared folder "9", at 190538: upload lasts for 14.00
+Device 0 starts waiting an inter-upload time of 4 at 190538
+Device 1 uploads file "370" in shared folder "6", at 190592: upload lasts for 2705.00
+Device 1 starts waiting an inter-upload time of 9 at 190592
+Device 0 uploads file "376" in shared folder "9", at 190649: upload lasts for 106.00
+Device 0 starts waiting an inter-upload time of 770 at 190649
+Device 0 has no time to upload file (inter-upload time) at 190765
+Device 0 logs out at 190765: session lasts for 247
+Device 8 uploads file "371" in shared folder "7", at 191299: upload lasts for 2474.00
+Device 8 starts waiting an inter-upload time of 732 at 191299
+Device 1 uploads file "377" in shared folder "6", at 192194: upload lasts for 1592.00
+Device 1 starts waiting an inter-upload time of 8 at 192194
+Device 3 logged in at 192636, on shared folder "5"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 1 at 192636
+Device 8 fails to upload file "379" at 193707
+Device 8 logs out at 193707: session lasts for 4887
+Device 4 uploads file "374" in shared folder "3", at 193948: upload lasts for 3546.00
+Device 4 starts waiting an inter-upload time of 308 at 193948
+Device 9 uploads file "373" in shared folder "2", at 194762: upload lasts for 5040.00
+Device 9 starts waiting an inter-upload time of 5 at 194762
+Device 1 fails to upload file "380" at 195033
+Device 1 logs out at 195033: session lasts for 7296
+Device 4 uploads file "382" in shared folder "3", at 195260: upload lasts for 1003.00
+Device 4 starts waiting an inter-upload time of 300 at 195260
+Device 3 fails to upload file "381" at 195286
+Device 3 logs out at 195286: session lasts for 2650
+Device 9 uploads file "383" in shared folder "2", at 195652: upload lasts for 884.00
+Device 9 starts waiting an inter-upload time of 14 at 195652
+Device 3 logged in at 195898, on shared folder "5"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 152 at 195898
+Device 8 logged in at 197189, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 1455 at 197189
+Device 1 logged in at 197484, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 6 at 197484
+Device 1 uploads file "388" in shared folder "6", at 197495: upload lasts for 5.00
+Device 1 starts waiting an inter-upload time of 181 at 197495
+Device 3 uploads file "386" in shared folder "5", at 197550: upload lasts for 1499.00
+Device 3 starts waiting an inter-upload time of 10 at 197550
+Device 3 uploads file "390" in shared folder "5", at 197574: upload lasts for 14.00
+Device 3 starts waiting an inter-upload time of 44 at 197574
+Device 3 fails to upload file "391" at 198169
+Device 3 logs out at 198169: session lasts for 2270
+Device 1 fails to upload file "389" at 198511
+Device 1 logs out at 198511: session lasts for 1027
+Device 9 uploads file "385" in shared folder "2", at 198656: upload lasts for 2989.00
+Device 9 starts waiting an inter-upload time of 1583 at 198656
+Device 0 logged in at 199026, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 43 at 199026
+Device 4 uploads file "384" in shared folder "3", at 200120: upload lasts for 4559.00
+Device 4 starts waiting an inter-upload time of 12 at 200120
+Device 0 uploads file "378" in shared folder "9", at 201600: upload lasts for 2530.00
+Device 0 starts waiting an inter-upload time of 13 at 201600
+Device 4 fails to upload file "393" at 201776
+Device 4 logs out at 201776: session lasts for 48763
+Device 1 logged in at 202037, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 232 at 202037
+Device 8 uploads file "387" in shared folder "7", at 202425: upload lasts for 3780.00
+Device 8 starts waiting an inter-upload time of 477 at 202425
+Device 0 uploads file "394" in shared folder "9", at 202598: upload lasts for 984.00
+Device 0 starts waiting an inter-upload time of 37 at 202598
+Device 1 fails to upload file "395" at 202946
+Device 1 logs out at 202946: session lasts for 909
+Device 4 logged in at 204076, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 554 at 204076
+Device 9 uploads file "392" in shared folder "2", at 204110: upload lasts for 3870.00
+Device 9 starts waiting an inter-upload time of 313 at 204110
+Device 6 uploads file "362" in shared folder "4", at 204122: upload lasts for 18640.00
+Device 6 starts waiting an inter-upload time of 100 at 204122
+Device 9 uploads file "399" in shared folder "2", at 204442: upload lasts for 18.00
+Device 9 starts waiting an inter-upload time of 7 at 204442
+Device 6 uploads file "400" in shared folder "4", at 204947: upload lasts for 724.00
+Device 6 starts waiting an inter-upload time of 3 at 204947
+Device 6 uploads file "402" in shared folder "4", at 204976: upload lasts for 25.00
+Device 6 starts waiting an inter-upload time of 1489 at 204976
+Device 1 logged in at 205672, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 52 at 205672
+Device 1 has no time to upload file (inter-upload time) at 205703
+Device 1 logs out at 205703: session lasts for 30
+Device 8 uploads file "396" in shared folder "7", at 206472: upload lasts for 3570.00
+Device 8 starts waiting an inter-upload time of 377 at 206472
+Device 4 uploads file "398" in shared folder "3", at 206763: upload lasts for 2131.00
+Device 4 starts waiting an inter-upload time of 60503 at 206763
+Device 0 uploads file "397" in shared folder "9", at 206814: upload lasts for 4178.00
+Device 0 starts waiting an inter-upload time of 35 at 206814
+Device 9 uploads file "401" in shared folder "2", at 207078: upload lasts for 2629.00
+Device 9 starts waiting an inter-upload time of 27 at 207078
+Device 6 uploads file "403" in shared folder "4", at 207364: upload lasts for 898.00
+Device 6 starts waiting an inter-upload time of 239 at 207364
+Device 0 fails to upload file "407" at 207514
+Device 0 logs out at 207514: session lasts for 8488
+Device 6 uploads file "409" in shared folder "4", at 208104: upload lasts for 501.00
+Device 6 starts waiting an inter-upload time of 2 at 208104
+Device 4 has no time to upload file (inter-upload time) at 208658
+Device 4 logs out at 208658: session lasts for 4581
+Device 8 uploads file "405" in shared folder "7", at 209084: upload lasts for 2234.00
+Device 8 starts waiting an inter-upload time of 5 at 209084
+Device 9 uploads file "408" in shared folder "2", at 209096: upload lasts for 1990.00
+Device 9 starts waiting an inter-upload time of 9147 at 209096
+Device 1 logged in at 209928, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 13 at 209928
+Device 1 uploads file "404" in shared folder "6", at 210554: upload lasts for 612.00
+Device 1 starts waiting an inter-upload time of 131 at 210554
+Device 0 logged in at 210708, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 1 at 210708
+Device 0 uploads file "414" in shared folder "9", at 210714: upload lasts for 5.00
+Device 0 starts waiting an inter-upload time of 1 at 210714
+Device 4 logged in at 211228, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 63 at 211228
+Device 1 uploads file "413" in shared folder "6", at 211993: upload lasts for 1307.00
+Device 1 starts waiting an inter-upload time of 77 at 211993
+Device 1 fails to upload file "416" at 212266
+Device 1 logs out at 212266: session lasts for 2338
+Device 4 fails to upload file "406" at 212676
+Device 4 logs out at 212676: session lasts for 1447
+Device 8 uploads file "411" in shared folder "7", at 212963: upload lasts for 3873.00
+Device 8 starts waiting an inter-upload time of 3 at 212963
+Device 8 uploads file "417" in shared folder "7", at 212994: upload lasts for 27.00
+Device 8 starts waiting an inter-upload time of 9334 at 212994
+Device 0 uploads file "415" in shared folder "9", at 214035: upload lasts for 3319.00
+Device 0 starts waiting an inter-upload time of 1 at 214035
+Device 6 uploads file "410" in shared folder "4", at 214894: upload lasts for 6787.00
+Device 6 starts waiting an inter-upload time of 115 at 214894
+Device 1 logged in at 215551, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 13 at 215551
+Device 1 uploads file "421" in shared folder "6", at 215571: upload lasts for 6.00
+Device 1 starts waiting an inter-upload time of 23 at 215571
+Device 1 fails to upload file "422" at 216739
+Device 1 logs out at 216739: session lasts for 1187
+Device 6 uploads file "420" in shared folder "4", at 217012: upload lasts for 2002.00
+Device 6 starts waiting an inter-upload time of 388 at 217012
+Device 6 uploads file "423" in shared folder "4", at 217416: upload lasts for 15.00
+Device 6 starts waiting an inter-upload time of 541 at 217416
+Device 0 uploads file "419" in shared folder "9", at 217917: upload lasts for 3880.00
+Device 0 starts waiting an inter-upload time of 121 at 217917
+Device 9 uploads file "412" in shared folder "2", at 218884: upload lasts for 640.00
+Device 9 starts waiting an inter-upload time of 46 at 218884
+Device 0 fails to upload file "425" at 218925
+Device 0 logs out at 218925: session lasts for 8217
+Device 6 uploads file "424" in shared folder "4", at 220307: upload lasts for 2350.00
+Device 6 starts waiting an inter-upload time of 2907 at 220307
+Device 8 uploads file "418" in shared folder "7", at 222373: upload lasts for 44.00
+Device 8 starts waiting an inter-upload time of 3 at 222373
+Device 9 uploads file "426" in shared folder "2", at 223189: upload lasts for 4257.00
+Device 9 starts waiting an inter-upload time of 4 at 223189
+Device 4 logged in at 224230, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 28 at 224230
+Device 4 uploads file "430" in shared folder "3", at 224265: upload lasts for 6.00
+Device 4 starts waiting an inter-upload time of 133 at 224265
+Device 8 uploads file "428" in shared folder "7", at 225030: upload lasts for 2653.00
+Device 8 starts waiting an inter-upload time of 2 at 225030
+Device 9 uploads file "429" in shared folder "2", at 225648: upload lasts for 2454.00
+Device 9 starts waiting an inter-upload time of 3 at 225648
+Device 4 uploads file "431" in shared folder "3", at 225663: upload lasts for 1263.00
+Device 4 starts waiting an inter-upload time of 34 at 225663
+Device 4 uploads file "434" in shared folder "3", at 225935: upload lasts for 238.00
+Device 4 starts waiting an inter-upload time of 2 at 225935
+Device 4 uploads file "435" in shared folder "3", at 226015: upload lasts for 77.00
+Device 4 starts waiting an inter-upload time of 65 at 226015
+Device 9 uploads file "433" in shared folder "2", at 227330: upload lasts for 1677.00
+Device 9 starts waiting an inter-upload time of 131 at 227330
+Device 9 uploads file "437" in shared folder "2", at 227521: upload lasts for 60.00
+Device 9 starts waiting an inter-upload time of 1 at 227521
+Device 6 uploads file "427" in shared folder "4", at 227757: upload lasts for 4542.00
+Device 6 starts waiting an inter-upload time of 20 at 227757
+Device 4 uploads file "436" in shared folder "3", at 228789: upload lasts for 2709.00
+Device 4 starts waiting an inter-upload time of 47 at 228789
+Device 4 uploads file "440" in shared folder "3", at 228875: upload lasts for 38.00
+Device 4 starts waiting an inter-upload time of 4 at 228875
+Device 4 uploads file "441" in shared folder "3", at 228989: upload lasts for 109.00
+Device 4 starts waiting an inter-upload time of 5 at 228989
+Device 4 uploads file "442" in shared folder "3", at 231334: upload lasts for 2339.00
+Device 4 starts waiting an inter-upload time of 446 at 231334
+Device 8 uploads file "432" in shared folder "7", at 231426: upload lasts for 6393.00
+Device 8 starts waiting an inter-upload time of 71 at 231426
+Device 8 uploads file "444" in shared folder "7", at 232634: upload lasts for 1136.00
+Device 8 starts waiting an inter-upload time of 1 at 232634
+Device 8 uploads file "445" in shared folder "7", at 232675: upload lasts for 40.00
+Device 8 starts waiting an inter-upload time of 16 at 232675
+Device 0 logged in at 233431, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 45 at 233431
+Device 0 uploads file "447" in shared folder "9", at 233503: upload lasts for 25.00
+Device 0 starts waiting an inter-upload time of 6 at 233503
+Device 0 uploads file "448" in shared folder "9", at 234403: upload lasts for 893.00
+Device 0 starts waiting an inter-upload time of 3 at 234403
+Device 6 uploads file "439" in shared folder "4", at 234573: upload lasts for 6795.00
+Device 6 starts waiting an inter-upload time of 304 at 234573
+Device 4 uploads file "443" in shared folder "3", at 234612: upload lasts for 2831.00
+Device 4 starts waiting an inter-upload time of 561 at 234612
+Device 6 uploads file "450" in shared folder "4", at 234882: upload lasts for 4.00
+Device 6 starts waiting an inter-upload time of 192 at 234882
+Device 9 uploads file "438" in shared folder "2", at 235154: upload lasts for 7631.00
+Device 9 starts waiting an inter-upload time of 41 at 235154
+Device 9 uploads file "453" in shared folder "2", at 235199: upload lasts for 3.00
+Device 9 starts waiting an inter-upload time of 1344 at 235199
+Device 6 uploads file "452" in shared folder "4", at 236125: upload lasts for 1050.00
+Device 6 starts waiting an inter-upload time of 254 at 236125
+Device 4 uploads file "451" in shared folder "3", at 237416: upload lasts for 2242.00
+Device 4 starts waiting an inter-upload time of 63 at 237416
+Device 8 uploads file "446" in shared folder "7", at 237861: upload lasts for 5169.00
+Device 8 starts waiting an inter-upload time of 189 at 237861
+Device 8 uploads file "457" in shared folder "7", at 238166: upload lasts for 115.00
+Device 8 starts waiting an inter-upload time of 35 at 238166
+Device 0 uploads file "449" in shared folder "9", at 238198: upload lasts for 3791.00
+Device 0 starts waiting an inter-upload time of 1206 at 238198
+Device 9 uploads file "454" in shared folder "2", at 238430: upload lasts for 1886.00
+Device 9 starts waiting an inter-upload time of 154 at 238430
+Device 0 has no time to upload file (inter-upload time) at 238501
+Device 0 logs out at 238501: session lasts for 5069
+Device 9 uploads file "460" in shared folder "2", at 238655: upload lasts for 71.00
+Device 9 starts waiting an inter-upload time of 134 at 238655
+Device 6 uploads file "455" in shared folder "4", at 239245: upload lasts for 2865.00
+Device 6 starts waiting an inter-upload time of 179 at 239245
+Device 9 fails to upload file "461" at 240611
+Device 9 logs out at 240611: session lasts for 58677
+Device 8 uploads file "458" in shared folder "7", at 241900: upload lasts for 3699.00
+Device 8 starts waiting an inter-upload time of 29 at 241900
+Device 6 uploads file "462" in shared folder "4", at 242027: upload lasts for 2602.00
+Device 6 starts waiting an inter-upload time of 11 at 242027
+Device 4 uploads file "456" in shared folder "3", at 242336: upload lasts for 4856.00
+Device 4 starts waiting an inter-upload time of 1 at 242336
+Device 4 uploads file "465" in shared folder "3", at 244230: upload lasts for 1893.00
+Device 4 starts waiting an inter-upload time of 4 at 244230
+Device 4 uploads file "466" in shared folder "3", at 244281: upload lasts for 46.00
+Device 4 starts waiting an inter-upload time of 97 at 244281
+Device 9 logged in at 244349, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 54 at 244349
+Device 8 uploads file "463" in shared folder "7", at 245141: upload lasts for 3211.00
+Device 8 starts waiting an inter-upload time of 9 at 245141
+Device 9 uploads file "468" in shared folder "2", at 245519: upload lasts for 1115.00
+Device 9 starts waiting an inter-upload time of 523 at 245519
+Device 8 uploads file "469" in shared folder "7", at 245672: upload lasts for 521.00
+Device 8 starts waiting an inter-upload time of 18 at 245672
+Device 6 uploads file "464" in shared folder "4", at 246129: upload lasts for 4090.00
+Device 6 starts waiting an inter-upload time of 160 at 246129
+Device 4 fails to upload file "467" at 246169
+Device 4 logs out at 246169: session lasts for 21938
+Device 8 uploads file "471" in shared folder "7", at 246419: upload lasts for 729.00
+Device 8 starts waiting an inter-upload time of 22 at 246419
+Device 9 fails to upload file "470" at 246478
+Device 9 logs out at 246478: session lasts for 2128
+Device 9 logged in at 246945, on shared folder "2"
+Device 9 has no file to download from the server
+Device 9 starts waiting an inter-upload time of 304 at 246945
+Device 8 uploads file "473" in shared folder "7", at 247209: upload lasts for 767.00
+Device 8 starts waiting an inter-upload time of 3 at 247209
+Device 6 uploads file "472" in shared folder "4", at 247224: upload lasts for 934.00
+Device 6 starts waiting an inter-upload time of 21 at 247224
+Device 0 logged in at 247319, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 193 at 247319
+Device 8 uploads file "475" in shared folder "7", at 247380: upload lasts for 167.00
+Device 8 starts waiting an inter-upload time of 1 at 247380
+Device 4 logged in at 247481, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 40 at 247481
+Device 0 uploads file "459" in shared folder "9", at 248690: upload lasts for 1177.00
+Device 0 starts waiting an inter-upload time of 58 at 248690
+Device 8 uploads file "477" in shared folder "7", at 249348: upload lasts for 1966.00
+Device 8 starts waiting an inter-upload time of 5 at 249348
+Device 4 uploads file "478" in shared folder "3", at 249597: upload lasts for 2076.00
+Device 4 starts waiting an inter-upload time of 47 at 249597
+Device 9 uploads file "474" in shared folder "2", at 250109: upload lasts for 2859.00
+Device 9 starts waiting an inter-upload time of 87 at 250109
+Device 6 uploads file "476" in shared folder "4", at 250119: upload lasts for 2873.00
+Device 6 starts waiting an inter-upload time of 4 at 250119
+Device 0 fails to upload file "479" at 250188
+Device 0 logs out at 250188: session lasts for 2869
+Device 8 uploads file "480" in shared folder "7", at 250411: upload lasts for 1058.00
+Device 8 starts waiting an inter-upload time of 0 at 250411
+Device 0 logged in at 250763, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 2 at 250763
+Device 9 uploads file "482" in shared folder "2", at 251005: upload lasts for 808.00
+Device 9 starts waiting an inter-upload time of 67 at 251005
+Device 9 uploads file "486" in shared folder "2", at 251120: upload lasts for 47.00
+Device 9 starts waiting an inter-upload time of 210 at 251120
+Device 8 uploads file "484" in shared folder "7", at 251125: upload lasts for 712.00
+Device 8 starts waiting an inter-upload time of 1 at 251125
+Device 9 uploads file "487" in shared folder "2", at 251371: upload lasts for 39.00
+Device 9 starts waiting an inter-upload time of 39 at 251371
+Device 8 fails to upload file "488" at 251739
+Device 8 logs out at 251739: session lasts for 54550
+Device 0 fails to upload file "485" at 252331
+Device 0 logs out at 252331: session lasts for 1567
+Device 4 uploads file "481" in shared folder "3", at 252762: upload lasts for 3117.00
+Device 4 starts waiting an inter-upload time of 10 at 252762
+Device 9 uploads file "489" in shared folder "2", at 252814: upload lasts for 1403.00
+Device 9 starts waiting an inter-upload time of 16 at 252814
+Device 0 logged in at 253538, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 36 at 253538
+Device 4 uploads file "490" in shared folder "3", at 253890: upload lasts for 1118.00
+Device 4 starts waiting an inter-upload time of 238 at 253890
+Device 0 fails to upload file "492" at 254085
+Device 0 logs out at 254085: session lasts for 547
+Device 6 uploads file "483" in shared folder "4", at 254152: upload lasts for 4028.00
+Device 6 starts waiting an inter-upload time of 573 at 254152
+Device 4 fails to upload file "493" at 254797
+Device 4 logs out at 254797: session lasts for 7316
+Device 1 logged in at 255212, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 116 at 255212
+Device 6 uploads file "494" in shared folder "4", at 255854: upload lasts for 1128.00
+Device 6 starts waiting an inter-upload time of 13 at 255854
+Device 6 uploads file "496" in shared folder "4", at 255907: upload lasts for 39.00
+Device 6 starts waiting an inter-upload time of 19 at 255907
+Device 1 uploads file "495" in shared folder "6", at 256455: upload lasts for 1126.00
+Device 1 starts waiting an inter-upload time of 67 at 256455
+Device 6 uploads file "497" in shared folder "4", at 256663: upload lasts for 736.00
+Device 6 starts waiting an inter-upload time of 61 at 256663
+Device 0 logged in at 257634, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 371 at 257634
+Device 0 uploads file "500" in shared folder "9", at 258013: upload lasts for 7.00
+Device 0 starts waiting an inter-upload time of 109 at 258013
+Device 1 uploads file "498" in shared folder "6", at 258591: upload lasts for 2068.00
+Device 1 starts waiting an inter-upload time of 125 at 258591
+Device 0 fails to upload file "501" at 259396
+Device 0 logs out at 259396: session lasts for 1761
+Device 0 logged in at 260047, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 139 at 260047
+Device 0 fails to upload file "503" at 260193
+Device 0 logs out at 260193: session lasts for 145
+Device 1 fails to upload file "502" at 260786
+Device 1 logs out at 260786: session lasts for 5574
+Device 9 uploads file "491" in shared folder "2", at 260962: upload lasts for 8130.00
+Device 9 starts waiting an inter-upload time of 938 at 260962
+Device 1 logged in at 261269, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 8 at 261269
+Device 1 fails to upload file "505" at 262200
+Device 1 logs out at 262200: session lasts for 930
+Device 9 uploads file "504" in shared folder "2", at 263964: upload lasts for 2063.00
+Device 9 starts waiting an inter-upload time of 116 at 263964
+Device 6 uploads file "499" in shared folder "4", at 264087: upload lasts for 7361.00
+Device 6 starts waiting an inter-upload time of 2 at 264087
+Device 6 uploads file "507" in shared folder "4", at 264155: upload lasts for 65.00
+Device 6 starts waiting an inter-upload time of 86 at 264155
+Device 1 logged in at 264759, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 108 at 264759
+Device 1 uploads file "509" in shared folder "6", at 264880: upload lasts for 12.00
+Device 1 starts waiting an inter-upload time of 9 at 264880
+Device 9 uploads file "506" in shared folder "2", at 265102: upload lasts for 1021.00
+Device 9 starts waiting an inter-upload time of 2 at 265102
+Device 1 fails to upload file "510" at 265397
+Device 1 logs out at 265397: session lasts for 637
+Device 6 uploads file "508" in shared folder "4", at 265681: upload lasts for 1439.00
+Device 6 starts waiting an inter-upload time of 17 at 265681
+Device 1 logged in at 266783, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 7 at 266783
+Device 1 uploads file "513" in shared folder "6", at 266801: upload lasts for 10.00
+Device 1 starts waiting an inter-upload time of 521 at 266801
+Device 8 logged in at 267410, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 344 at 267410
+Device 9 uploads file "511" in shared folder "2", at 267507: upload lasts for 2402.00
+Device 9 starts waiting an inter-upload time of 207 at 267507
+Device 1 fails to upload file "514" at 267680
+Device 1 logs out at 267680: session lasts for 896
+Device 8 uploads file "515" in shared folder "7", at 267759: upload lasts for 4.00
+Device 8 starts waiting an inter-upload time of 14 at 267759
+Device 8 uploads file "517" in shared folder "7", at 269838: upload lasts for 2064.00
+Device 8 starts waiting an inter-upload time of 16 at 269838
+Device 6 uploads file "512" in shared folder "4", at 270794: upload lasts for 5095.00
+Device 6 starts waiting an inter-upload time of 3 at 270794
+Device 6 uploads file "519" in shared folder "4", at 270976: upload lasts for 177.00
+Device 6 starts waiting an inter-upload time of 12 at 270976
+Device 8 uploads file "518" in shared folder "7", at 272105: upload lasts for 2250.00
+Device 8 starts waiting an inter-upload time of 288 at 272105
+Device 8 uploads file "521" in shared folder "7", at 272675: upload lasts for 280.00
+Device 8 starts waiting an inter-upload time of 38 at 272675
+Device 8 uploads file "522" in shared folder "7", at 272732: upload lasts for 18.00
+Device 8 starts waiting an inter-upload time of 10 at 272732
+Device 6 uploads file "520" in shared folder "4", at 273868: upload lasts for 2879.00
+Device 6 starts waiting an inter-upload time of 4 at 273868
+Device 8 fails to upload file "523" at 274289
+Device 8 logs out at 274289: session lasts for 6879
+Device 8 logged in at 274834, on shared folder "7"
+Device 8 has no file to download from the server
+Device 8 starts waiting an inter-upload time of 208 at 274834
+Device 6 uploads file "524" in shared folder "4", at 277016: upload lasts for 3143.00
+Device 6 starts waiting an inter-upload time of 9 at 277016
+Device 4 logged in at 278356, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 26 at 278356
+Device 8 uploads file "525" in shared folder "7", at 278945: upload lasts for 3901.00
+Device 8 starts waiting an inter-upload time of 378 at 278945
+Device 8 uploads file "528" in shared folder "7", at 280624: upload lasts for 1300.00
+Device 8 starts waiting an inter-upload time of 17 at 280624
+Device 6 uploads file "526" in shared folder "4", at 280702: upload lasts for 3676.00
+Device 6 starts waiting an inter-upload time of 10 at 280702
+Device 9 uploads file "516" in shared folder "2", at 281243: upload lasts for 13528.00
+Device 9 starts waiting an inter-upload time of 78 at 281243
+Device 6 uploads file "530" in shared folder "4", at 281964: upload lasts for 1252.00
+Device 6 starts waiting an inter-upload time of 11 at 281964
+Device 8 uploads file "529" in shared folder "7", at 282568: upload lasts for 1926.00
+Device 8 starts waiting an inter-upload time of 2163 at 282568
+Device 6 uploads file "532" in shared folder "4", at 282849: upload lasts for 873.00
+Device 6 starts waiting an inter-upload time of 8 at 282849
+Device 6 uploads file "534" in shared folder "4", at 282861: upload lasts for 3.00
+Device 6 starts waiting an inter-upload time of 22809 at 282861
+Device 4 uploads file "527" in shared folder "3", at 285695: upload lasts for 7312.00
+Device 4 starts waiting an inter-upload time of 7 at 285695
+Device 8 uploads file "533" in shared folder "7", at 285849: upload lasts for 1117.00
+Device 8 starts waiting an inter-upload time of 37 at 285849
+Device 8 uploads file "537" in shared folder "7", at 286606: upload lasts for 719.00
+Device 8 starts waiting an inter-upload time of 1 at 286606
+Device 9 uploads file "531" in shared folder "2", at 287147: upload lasts for 5825.00
+Device 9 starts waiting an inter-upload time of 237 at 287147
+Device 9 uploads file "539" in shared folder "2", at 287507: upload lasts for 122.00
+Device 9 starts waiting an inter-upload time of 50 at 287507
+Device 1 logged in at 288014, on shared folder "6"
+Device 1 has no file to download from the server
+Device 1 starts waiting an inter-upload time of 1 at 288014
+Device 8 uploads file "538" in shared folder "7", at 289295: upload lasts for 2687.00
+Device 8 starts waiting an inter-upload time of 19 at 289295
+Device 8 uploads file "542" in shared folder "7", at 289328: upload lasts for 14.00
+Device 8 starts waiting an inter-upload time of 31 at 289328
+Device 4 fails to upload file "536" at 289665
+Device 4 logs out at 289665: session lasts for 11309
+Device 1 uploads file "541" in shared folder "6", at 290820: upload lasts for 2804.00
+Device 1 starts waiting an inter-upload time of 17 at 290820
+Device 9 uploads file "540" in shared folder "2", at 291402: upload lasts for 3843.00
+Device 9 starts waiting an inter-upload time of 625 at 291402
+Device 0 logged in at 291899, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 90 at 291899
+Device 0 fails to upload file "546" at 292172
+Device 0 logs out at 292172: session lasts for 272
+Device 8 uploads file "543" in shared folder "7", at 292481: upload lasts for 3121.00
+Device 8 starts waiting an inter-upload time of 2 at 292481
+Device 1 uploads file "544" in shared folder "6", at 293231: upload lasts for 2393.00
+Device 1 starts waiting an inter-upload time of 352 at 293231
+Device 1 uploads file "548" in shared folder "6", at 293594: upload lasts for 10.00
+Device 1 starts waiting an inter-upload time of 4 at 293594
+Device 4 logged in at 294396, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 0 at 294396
+Device 9 uploads file "545" in shared folder "2", at 294399: upload lasts for 2372.00
+Device 9 starts waiting an inter-upload time of 3 at 294399
+Device 1 uploads file "549" in shared folder "6", at 294659: upload lasts for 1060.00
+Device 1 starts waiting an inter-upload time of 1375 at 294659
+Device 4 uploads file "550" in shared folder "3", at 294858: upload lasts for 460.00
+Device 4 starts waiting an inter-upload time of 188 at 294858
+Device 9 uploads file "551" in shared folder "2", at 295145: upload lasts for 742.00
+Device 9 starts waiting an inter-upload time of 49 at 295145
+Device 9 uploads file "554" in shared folder "2", at 295346: upload lasts for 150.00
+Device 9 starts waiting an inter-upload time of 1 at 295346
+Device 8 uploads file "547" in shared folder "7", at 295483: upload lasts for 3000.00
+Device 8 starts waiting an inter-upload time of 85 at 295483
+Device 8 uploads file "556" in shared folder "7", at 296385: upload lasts for 816.00
+Device 8 starts waiting an inter-upload time of 2 at 296385
+Device 8 fails to upload file "557" at 296554
+Device 8 logs out at 296554: session lasts for 21719
+Device 9 uploads file "555" in shared folder "2", at 297005: upload lasts for 1657.00
+Device 9 starts waiting an inter-upload time of 0 at 297005
+Device 1 uploads file "552" in shared folder "6", at 297907: upload lasts for 1871.00
+Device 1 starts waiting an inter-upload time of 435 at 297907
+Device 1 uploads file "559" in shared folder "6", at 298348: upload lasts for 5.00
+Device 1 starts waiting an inter-upload time of 78 at 298348
+Device 9 uploads file "558" in shared folder "2", at 298472: upload lasts for 1466.00
+Device 9 starts waiting an inter-upload time of 53 at 298472
+Device 4 fails to upload file "553" at 298601
+Device 4 logs out at 298601: session lasts for 4204
+Device 0 logged in at 301296, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 1125 at 301296
+Device 1 uploads file "560" in shared folder "6", at 301837: upload lasts for 3410.00
+Device 1 starts waiting an inter-upload time of 377 at 301837
+Device 9 uploads file "561" in shared folder "2", at 302032: upload lasts for 3506.00
+Device 9 starts waiting an inter-upload time of 255 at 302032
+Device 0 has no time to upload file (inter-upload time) at 302112
+Device 0 logs out at 302112: session lasts for 816
+Device 3 logged in at 302203, on shared folder "12"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 83 at 302203
+Device 1 uploads file "563" in shared folder "6", at 302221: upload lasts for 6.00
+Device 1 starts waiting an inter-upload time of 16 at 302221
+Device 3 uploads file "565" in shared folder "12", at 302303: upload lasts for 15.00
+Device 3 starts waiting an inter-upload time of 69 at 302303
+Device 3 uploads file "567" in shared folder "12", at 302391: upload lasts for 18.00
+Device 3 starts waiting an inter-upload time of 161 at 302391
+Device 4 logged in at 302818, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 9042 at 302818
+Device 3 fails to upload file "568" at 303243
+Device 3 logs out at 303243: session lasts for 1039
+Device 0 logged in at 303316, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 35 at 303316
+Device 1 uploads file "566" in shared folder "6", at 305059: upload lasts for 2822.00
+Device 1 starts waiting an inter-upload time of 12 at 305059
+Device 1 uploads file "570" in shared folder "6", at 305107: upload lasts for 35.00
+Device 1 starts waiting an inter-upload time of 28 at 305107
+Device 4 has no time to upload file (inter-upload time) at 305154
+Device 4 logs out at 305154: session lasts for 2335
+Device 3 logged in at 305975, on shared folder "12"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 3 at 305975
+Device 6 uploads file "535" in shared folder "4", at 306551: upload lasts for 880.00
+Device 6 starts waiting an inter-upload time of 10 at 306551
+Device 4 logged in at 307327, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 256 at 307327
+Device 0 fails to upload file "562" at 307405
+Device 0 logs out at 307405: session lasts for 4089
+Device 4 uploads file "569" in shared folder "3", at 308642: upload lasts for 1058.00
+Device 4 starts waiting an inter-upload time of 17 at 308642
+Device 4 uploads file "574" in shared folder "3", at 308664: upload lasts for 4.00
+Device 4 starts waiting an inter-upload time of 667 at 308664
+Device 9 uploads file "564" in shared folder "2", at 308813: upload lasts for 6526.00
+Device 9 starts waiting an inter-upload time of 23671 at 308813
+Device 1 uploads file "571" in shared folder "6", at 308962: upload lasts for 3827.00
+Device 1 starts waiting an inter-upload time of 2 at 308962
+Device 4 uploads file "575" in shared folder "3", at 310130: upload lasts for 798.00
+Device 4 starts waiting an inter-upload time of 0 at 310130
+Device 3 uploads file "572" in shared folder "12", at 310258: upload lasts for 4279.00
+Device 3 starts waiting an inter-upload time of 19 at 310258
+Device 0 logged in at 310535, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 15 at 310535
+Device 6 uploads file "573" in shared folder "4", at 311397: upload lasts for 4835.00
+Device 6 starts waiting an inter-upload time of 52 at 311397
+Device 1 uploads file "577" in shared folder "6", at 311570: upload lasts for 2604.00
+Device 1 starts waiting an inter-upload time of 2 at 311570
+Device 4 uploads file "578" in shared folder "3", at 311870: upload lasts for 1738.00
+Device 4 starts waiting an inter-upload time of 15 at 311870
+Device 3 uploads file "579" in shared folder "12", at 311944: upload lasts for 1666.00
+Device 3 starts waiting an inter-upload time of 38 at 311944
+Device 3 uploads file "584" in shared folder "12", at 311990: upload lasts for 7.00
+Device 3 starts waiting an inter-upload time of 44 at 311990
+Device 3 fails to upload file "585" at 312360
+Device 3 logs out at 312360: session lasts for 6384
+Device 4 uploads file "583" in shared folder "3", at 314335: upload lasts for 2449.00
+Device 4 starts waiting an inter-upload time of 35 at 314335
+Device 1 uploads file "582" in shared folder "6", at 314581: upload lasts for 3008.00
+Device 1 starts waiting an inter-upload time of 787 at 314581
+Device 0 uploads file "580" in shared folder "9", at 314898: upload lasts for 4347.00
+Device 0 starts waiting an inter-upload time of 7 at 314898
+Device 0 uploads file "588" in shared folder "9", at 316018: upload lasts for 1112.00
+Device 0 starts waiting an inter-upload time of 112 at 316018
+Device 1 uploads file "587" in shared folder "6", at 316396: upload lasts for 1027.00
+Device 1 starts waiting an inter-upload time of 8 at 316396
+Device 6 fails to upload file "581" at 316544
+Device 6 logs out at 316544: session lasts for 148425
+Device 4 uploads file "586" in shared folder "3", at 317362: upload lasts for 2992.00
+Device 4 starts waiting an inter-upload time of 314 at 317362
+Device 0 uploads file "589" in shared folder "9", at 317545: upload lasts for 1413.00
+Device 0 starts waiting an inter-upload time of 10 at 317545
+Device 3 logged in at 318273, on shared folder "8"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 14 at 318273
+Device 1 uploads file "590" in shared folder "6", at 318487: upload lasts for 2083.00
+Device 1 starts waiting an inter-upload time of 26 at 318487
+Device 1 uploads file "594" in shared folder "6", at 318528: upload lasts for 14.00
+Device 1 starts waiting an inter-upload time of 23 at 318528
+Device 4 uploads file "591" in shared folder "3", at 319295: upload lasts for 1617.00
+Device 4 starts waiting an inter-upload time of 119 at 319295
+Device 0 uploads file "592" in shared folder "9", at 320034: upload lasts for 2479.00
+Device 0 starts waiting an inter-upload time of 344 at 320034
+Device 0 uploads file "597" in shared folder "9", at 320386: upload lasts for 7.00
+Device 0 starts waiting an inter-upload time of 23 at 320386
+Device 6 logged in at 320579, on shared folder "4"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 75 at 320579
+Device 6 uploads file "599" in shared folder "4", at 320698: upload lasts for 43.00
+Device 6 starts waiting an inter-upload time of 0 at 320698
+Device 4 uploads file "596" in shared folder "3", at 320747: upload lasts for 1332.00
+Device 4 starts waiting an inter-upload time of 31 at 320747
+Device 4 uploads file "601" in shared folder "3", at 320784: upload lasts for 5.00
+Device 4 starts waiting an inter-upload time of 23 at 320784
+Device 6 fails to upload file "600" at 320816
+Device 6 logs out at 320816: session lasts for 236
+Device 4 uploads file "602" in shared folder "3", at 321285: upload lasts for 478.00
+Device 4 starts waiting an inter-upload time of 3 at 321285
+Device 4 uploads file "603" in shared folder "3", at 321305: upload lasts for 15.00
+Device 4 starts waiting an inter-upload time of 1 at 321305
+Device 0 uploads file "598" in shared folder "9", at 321965: upload lasts for 1555.00
+Device 0 starts waiting an inter-upload time of 491 at 321965
+Device 3 fails to upload file "593" at 322019
+Device 3 logs out at 322019: session lasts for 3746
+Device 1 uploads file "595" in shared folder "6", at 322248: upload lasts for 3696.00
+Device 1 starts waiting an inter-upload time of 149 at 322248
+Device 4 uploads file "604" in shared folder "3", at 322665: upload lasts for 1359.00
+Device 4 starts waiting an inter-upload time of 117 at 322665
+Device 3 logged in at 323179, on shared folder "5"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 11 at 323179
+Device 0 uploads file "605" in shared folder "9", at 323689: upload lasts for 1232.00
+Device 0 starts waiting an inter-upload time of 31 at 323689
+Device 4 uploads file "607" in shared folder "3", at 323740: upload lasts for 957.00
+Device 4 starts waiting an inter-upload time of 12 at 323740
+Device 3 uploads file "608" in shared folder "5", at 324127: upload lasts for 936.00
+Device 3 starts waiting an inter-upload time of 85 at 324127
+Device 4 uploads file "610" in shared folder "3", at 325201: upload lasts for 1448.00
+Device 4 starts waiting an inter-upload time of 25 at 325201
+Device 3 fails to upload file "611" at 325501
+Device 3 logs out at 325501: session lasts for 2322
+Device 3 logged in at 326155, on shared folder "12"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 91 at 326155
+Device 0 uploads file "609" in shared folder "9", at 326562: upload lasts for 2841.00
+Device 0 starts waiting an inter-upload time of 315 at 326562
+Device 0 uploads file "614" in shared folder "9", at 326893: upload lasts for 15.00
+Device 0 starts waiting an inter-upload time of 4 at 326893
+Device 0 uploads file "615" in shared folder "9", at 326908: upload lasts for 10.00
+Device 0 starts waiting an inter-upload time of 2 at 326908
+Device 4 fails to upload file "612" at 326908
+Device 4 logs out at 326908: session lasts for 19581
+Device 3 uploads file "613" in shared folder "12", at 327729: upload lasts for 1482.00
+Device 3 starts waiting an inter-upload time of 9 at 327729
+Device 1 uploads file "606" in shared folder "6", at 327797: upload lasts for 5399.00
+Device 1 starts waiting an inter-upload time of 334 at 327797
+Device 1 uploads file "618" in shared folder "6", at 328135: upload lasts for 3.00
+Device 1 starts waiting an inter-upload time of 6 at 328135
+Device 0 uploads file "616" in shared folder "9", at 329173: upload lasts for 2263.00
+Device 0 starts waiting an inter-upload time of 763 at 329173
+Device 6 logged in at 329519, on shared folder "11"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 5 at 329519
+Device 0 uploads file "620" in shared folder "9", at 329977: upload lasts for 40.00
+Device 0 starts waiting an inter-upload time of 379 at 329977
+Device 6 uploads file "621" in shared folder "11", at 330114: upload lasts for 589.00
+Device 6 starts waiting an inter-upload time of 123 at 330114
+Device 1 uploads file "619" in shared folder "6", at 330325: upload lasts for 2183.00
+Device 1 starts waiting an inter-upload time of 4 at 330325
+Device 1 uploads file "624" in shared folder "6", at 330380: upload lasts for 50.00
+Device 1 starts waiting an inter-upload time of 75 at 330380
+Device 1 uploads file "625" in shared folder "6", at 331412: upload lasts for 957.00
+Device 1 starts waiting an inter-upload time of 797 at 331412
+Device 6 fails to upload file "623" at 331493
+Device 6 logs out at 331493: session lasts for 1974
+Device 0 uploads file "622" in shared folder "9", at 331633: upload lasts for 1276.00
+Device 0 starts waiting an inter-upload time of 144 at 331633
+Device 9 uploads file "576" in shared folder "2", at 332940: upload lasts for 455.00
+Device 9 starts waiting an inter-upload time of 4 at 332940
+Device 3 uploads file "617" in shared folder "12", at 333221: upload lasts for 5482.00
+Device 3 starts waiting an inter-upload time of 5 at 333221
+Device 9 uploads file "628" in shared folder "2", at 333967: upload lasts for 1022.00
+Device 9 starts waiting an inter-upload time of 1121 at 333967
+Device 0 uploads file "627" in shared folder "9", at 334571: upload lasts for 2793.00
+Device 0 starts waiting an inter-upload time of 427 at 334571
+Device 0 uploads file "631" in shared folder "9", at 335092: upload lasts for 94.00
+Device 0 starts waiting an inter-upload time of 19 at 335092
+Device 6 logged in at 335692, on shared folder "11"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 78 at 335692
+Device 3 uploads file "629" in shared folder "12", at 336514: upload lasts for 3287.00
+Device 3 starts waiting an inter-upload time of 1 at 336514
+Device 6 uploads file "633" in shared folder "11", at 336998: upload lasts for 1227.00
+Device 6 starts waiting an inter-upload time of 129 at 336998
+Device 9 uploads file "630" in shared folder "2", at 337029: upload lasts for 1940.00
+Device 9 starts waiting an inter-upload time of 38 at 337029
+Device 6 fails to upload file "635" at 337400
+Device 6 logs out at 337400: session lasts for 1707
+Device 3 uploads file "634" in shared folder "12", at 337539: upload lasts for 1022.00
+Device 3 starts waiting an inter-upload time of 67 at 337539
+Device 1 uploads file "626" in shared folder "6", at 337597: upload lasts for 5386.00
+Device 1 starts waiting an inter-upload time of 151 at 337597
+Device 1 uploads file "638" in shared folder "6", at 337928: upload lasts for 178.00
+Device 1 starts waiting an inter-upload time of 119 at 337928
+Device 1 uploads file "639" in shared folder "6", at 338181: upload lasts for 132.00
+Device 1 starts waiting an inter-upload time of 16 at 338181
+Device 9 uploads file "636" in shared folder "2", at 338238: upload lasts for 1170.00
+Device 9 starts waiting an inter-upload time of 2662 at 338238
+Device 1 uploads file "640" in shared folder "6", at 338306: upload lasts for 109.00
+Device 1 starts waiting an inter-upload time of 7 at 338306
+Device 0 uploads file "632" in shared folder "9", at 338948: upload lasts for 3835.00
+Device 0 starts waiting an inter-upload time of 96 at 338948
+Device 1 uploads file "642" in shared folder "6", at 340412: upload lasts for 2098.00
+Device 1 starts waiting an inter-upload time of 169 at 340412
+Device 3 uploads file "637" in shared folder "12", at 340954: upload lasts for 3348.00
+Device 3 starts waiting an inter-upload time of 2 at 340954
+Device 0 uploads file "643" in shared folder "9", at 341254: upload lasts for 2209.00
+Device 0 starts waiting an inter-upload time of 21 at 341254
+Device 3 uploads file "645" in shared folder "12", at 341783: upload lasts for 825.00
+Device 3 starts waiting an inter-upload time of 5 at 341783
+Device 3 uploads file "647" in shared folder "12", at 341796: upload lasts for 7.00
+Device 3 starts waiting an inter-upload time of 3107 at 341796
+Device 9 uploads file "641" in shared folder "2", at 342412: upload lasts for 1511.00
+Device 9 starts waiting an inter-upload time of 66 at 342412
+Device 0 uploads file "646" in shared folder "9", at 343629: upload lasts for 2353.00
+Device 0 starts waiting an inter-upload time of 289 at 343629
+Device 9 uploads file "649" in shared folder "2", at 344501: upload lasts for 2022.00
+Device 9 starts waiting an inter-upload time of 2 at 344501
+Device 1 uploads file "644" in shared folder "6", at 345756: upload lasts for 5174.00
+Device 1 starts waiting an inter-upload time of 27 at 345756
+Device 3 uploads file "648" in shared folder "12", at 345910: upload lasts for 1007.00
+Device 3 starts waiting an inter-upload time of 31 at 345910
+Device 3 uploads file "653" in shared folder "12", at 345987: upload lasts for 44.00
+Device 3 starts waiting an inter-upload time of 6 at 345987
+Device 3 uploads file "654" in shared folder "12", at 346616: upload lasts for 623.00
+Device 3 starts waiting an inter-upload time of 3435 at 346616
+Device 9 uploads file "651" in shared folder "2", at 346924: upload lasts for 2419.00
+Device 9 starts waiting an inter-upload time of 2 at 346924
+Device 0 uploads file "650" in shared folder "9", at 346965: upload lasts for 3046.00
+Device 0 starts waiting an inter-upload time of 9 at 346965
+Device 1 uploads file "652" in shared folder "6", at 349007: upload lasts for 3223.00
+Device 1 starts waiting an inter-upload time of 199 at 349007
+Device 3 fails to upload file "655" at 350462
+Device 3 logs out at 350462: session lasts for 24307
+Device 4 logged in at 350581, on shared folder "3"
+Device 4 has no file to download from the server
+Device 4 starts waiting an inter-upload time of 751 at 350581
+Device 1 uploads file "658" in shared folder "6", at 350851: upload lasts for 1643.00
+Device 1 starts waiting an inter-upload time of 0 at 350851
+Device 1 uploads file "660" in shared folder "6", at 351255: upload lasts for 403.00
+Device 1 starts waiting an inter-upload time of 2 at 351255
+Device 0 fails to upload file "657" at 351621
+Device 0 logs out at 351621: session lasts for 41085
+Device 1 uploads file "661" in shared folder "6", at 351801: upload lasts for 543.00
+Device 1 starts waiting an inter-upload time of 1 at 351801
+Device 4 uploads file "659" in shared folder "3", at 352583: upload lasts for 1249.00
+Device 4 starts waiting an inter-upload time of 6144 at 352583
+Device 9 uploads file "656" in shared folder "2", at 352717: upload lasts for 5791.00
+Device 9 starts waiting an inter-upload time of 373 at 352717
+Device 1 uploads file "662" in shared folder "6", at 352862: upload lasts for 1060.00
+Device 1 starts waiting an inter-upload time of 4064 at 352862
+Device 9 uploads file "664" in shared folder "2", at 353940: upload lasts for 848.00
+Device 9 starts waiting an inter-upload time of 4 at 353940
+Device 3 logged in at 354992, on shared folder "12"
+Device 3 has no file to download from the server
+Device 3 starts waiting an inter-upload time of 1752 at 354992
+Device 9 uploads file "666" in shared folder "2", at 355597: upload lasts for 1652.00
+Device 9 starts waiting an inter-upload time of 662 at 355597
+Device 0 logged in at 356271, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 24 at 356271
+Device 1 uploads file "665" in shared folder "6", at 357162: upload lasts for 235.00
+Device 1 starts waiting an inter-upload time of 131 at 357162
+Device 3 fails to upload file "667" at 357582
+Device 3 logs out at 357582: session lasts for 2590
+Device 0 fails to upload file "669" at 357599
+Device 0 logs out at 357599: session lasts for 1328
+Device 0 logged in at 358476, on shared folder "9"
+Device 0 has no file to download from the server
+Device 0 starts waiting an inter-upload time of 38 at 358476
+Device 0 uploads file "671" in shared folder "9", at 358528: upload lasts for 14.00
+Device 0 starts waiting an inter-upload time of 12 at 358528
+Device 9 uploads file "668" in shared folder "2", at 358708: upload lasts for 2448.00
+Device 9 starts waiting an inter-upload time of 17 at 358708
+Device 1 uploads file "670" in shared folder "6", at 359265: upload lasts for 1971.00
+Device 1 starts waiting an inter-upload time of 61 at 359265
+Device 6 logged in at 359507, on shared folder "4"
+Device 6 has no file to download from the server
+Device 6 starts waiting an inter-upload time of 0 at 359507
